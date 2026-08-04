@@ -1,0 +1,22 @@
+# --- Secrets ---
+.env
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# --- Generated output (reports shouldn't be committed) ---
+output/
+
+# --- OS/editor cruft ---
+.DS_Store
+.vscode/
+.idea/
+
+# --- Jupyter, if you end up exploring data in notebooks ---
+.ipynb_checkpoints/
