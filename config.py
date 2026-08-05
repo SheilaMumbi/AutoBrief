@@ -12,11 +12,14 @@ def _get_bool(name: str, default: bool) -> bool:
         return default
     return value.strip().lower() in ("1", "true", "yes")
 
+# Which department's report to build — must match a key in department_configs
+DEPARTMENT = os.getenv("DEPARTMENT", "sales")
+
 # Gemini API
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 
 # Email
-SMTP_HOST = os.getenv("SMIP_HOST", "smtp.gmail.com")
+SMTP_HOST = os.getenv("SMTP_HOST", "smtp.gmail.com")
 SMTP_PORT = int(os.getenv("SMTP_PORT", "587"))
 SMTP_USERNAME = os.getenv("SMTP_USERNAME", "")
 SMTP_PASSWORD = os.getenv("SMTP_PASSWORD", "")
@@ -29,9 +32,6 @@ REPORT_RECIPIENTS = [
     if email.strip()
 ]
 
-# Data source
-SALES_DATA_PATH = os.getenv("SALES_DATA_PATH", "data/sample_sales_data.csv")
-
 # Safety switch
 # When True: no real email is sent (it prints to console instead), and
 # insights.py will fall back to a non-AI summary if no API key is present.
@@ -39,3 +39,12 @@ DRY_RUN = _get_bool("DRY_RUN", True)
 
 # Output
 OUTPUT_DIR = "output"
+UPLOAD_DIR = "uploads"
+
+# --- Web app (dashboard, accounts, uploads) ---
+SECRET_KEY = os.getenv("SECRET_KEY", "dev-secret-change-me")
+DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///autobrief.db")
+
+# The account with this email is auto-promoted to owner on signup. If unset,
+# whoever signs up first becomes owner.
+OWNER_EMAIL = os.getenv("OWNER_EMAIL", "")
