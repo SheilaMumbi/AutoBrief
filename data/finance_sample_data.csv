@@ -1,0 +1,468 @@
+date,department,category,amount
+2026-06-05,Marketing,Payroll,4109.44
+2026-06-05,Sales,Software,4762.88
+2026-06-05,Operations,,3752.99
+2026-06-05,Sales,,2337.11
+2026-06-06,Engineering,Software,355.26
+2026-06-06,Sales,Travel,N/A
+2026-06-06,Operations,Payroll,3447.11
+2026-06-06,Engineering,Marketing Spend,2951.29
+2026-06-06,Engineering,Software,4985.95
+2026-06-06,Sales,Contractors,2244.99
+2026-06-07,Engineering,Payroll,656.51
+2026-06-07,Operations,Software,881.55
+2026-06-07,Support,Office Supplies,4117.34
+2026-06-07,Operations,Office Supplies,195.94
+2026-06-07,Operations,Travel,1802.02
+2026-06-07,Sales,Payroll,1435.28
+2026-06-08,Engineering,Marketing Spend,3114.92
+2026-06-08,Sales,Contractors,1510.77
+2026-06-08,Operations,Marketing Spend,2421.2
+2026-06-08,Engineering,Payroll,1945.93
+2026-06-08,Operations,Travel,3231.13
+2026-06-08,Support,Travel,3172.23
+2026-06-09,Engineering,Office Supplies,3920.48
+2026-06-09,Marketing,Office Supplies,2745.36
+2026-06-09,Operations,Payroll,4567.75
+2026-06-09,Support,Payroll,1972.49
+2026-06-09,Sales,Software,1628.44
+2026-06-09,Sales,Software,4484.04
+2026-06-09,Marketing,Software,4052.84
+2026-06-09,Operations,Marketing Spend,1819.29
+2026-06-09,Support,Travel,4871.2
+2026-06-09,Engineering,Travel,3301.48
+2026-06-09,Marketing,Marketing Spend,4090.61
+2026-06-09,Engineering,Travel,2899.68
+2026-06-10,Marketing,Travel,921.7
+2026-06-10,Support,Payroll,4040.74
+2026-06-10,Marketing,Marketing Spend,189.62
+2026-06-10,Marketing,Marketing Spend,2839.85
+2026-06-10,Support,Travel,4191.65
+2026-06-10,Operations,Marketing Spend,1579.81
+2026-06-10,Operations,Software,496.77
+2026-06-10,Sales,Marketing Spend,1133.1
+2026-06-10,Support,,53.38
+2026-06-10,Support,Travel,4041.9
+2026-06-11,Sales,Payroll,344.8
+2026-06-11,Sales,Marketing Spend,3538.25
+2026-06-11,Sales,Software,4240.08
+2026-06-11,Marketing,Software,1899.27
+2026-06-11,Operations,Marketing Spend,550.11
+2026-06-11,Marketing,Payroll,725.44
+2026-06-11,Sales,Contractors,4746.03
+2026-06-11,Operations,Contractors,1620.55
+2026-06-11,Support,Contractors,4453.52
+2026-06-12,Sales,Contractors,2965.3
+2026-06-12,Sales,Office Supplies,1568.77
+2026-06-12,Marketing,Travel,929.66
+2026-06-12,Engineering,Contractors,4746.06
+2026-06-12,Operations,Marketing Spend,210.29
+2026-06-12,Support,Payroll,4609.14
+2026-06-12,Support,Travel,3216.25
+2026-06-12,Engineering,Office Supplies,746.18
+2026-06-12,Engineering,Travel,1766.71
+2026-06-13,Sales,Contractors,4432.34
+2026-06-13,Engineering,Contractors,3366.62
+2026-06-13,Marketing,Office Supplies,106.41
+2026-06-13,Sales,Travel,3481.22
+2026-06-13,Marketing,Payroll,3945.75
+2026-06-13,Engineering,Software,1960.39
+2026-06-13,Operations,Travel,4428.53
+2026-06-13,Operations,Office Supplies,1788.59
+2026-06-13,Operations,Software,4152.59
+2026-06-14,Sales,Office Supplies,414.86
+2026-06-14,Engineering,Payroll,149.39
+2026-06-14,Marketing,Software,417.29
+2026-06-14,Sales,Office Supplies,846.48
+2026-06-14,Engineering,Marketing Spend,4712.08
+2026-06-14,Engineering,Payroll,2990.45
+2026-06-14,Support,Office Supplies,3537.3
+2026-06-15,Sales,Marketing Spend,4454.28
+2026-06-15,Sales,Software,551.23
+2026-06-15,Sales,Travel,2075.94
+2026-06-15,Support,Contractors,4631.59
+2026-06-15,Support,Payroll,3319.96
+2026-06-15,Marketing,Travel,524.78
+2026-06-15,Operations,Marketing Spend,2770.83
+2026-06-15,Operations,Travel,319.8
+2026-06-15,Engineering,Office Supplies,483.76
+2026-06-15,Support,Office Supplies,1038.39
+2026-06-16,Sales,Travel,3209.04
+2026-06-16,Engineering,Office Supplies,4226.66
+2026-06-16,Marketing,Office Supplies,2381.18
+2026-06-16,Marketing,Software,3227.24
+2026-06-17,Sales,Payroll,4433.19
+2026-06-17,Marketing,Travel,2256.59
+2026-06-17,Marketing,Office Supplies,2352.04
+2026-06-17,Sales,Payroll,2843.02
+2026-06-17,Sales,,3353.97
+2026-06-17,Engineering,Contractors,1751.77
+2026-06-17,Support,Office Supplies,4854.99
+2026-06-17,Support,Travel,2790.33
+2026-06-17,Operations,Marketing Spend,2122.23
+2026-06-17,Support,Contractors,4341.13
+2026-06-18,Support,Travel,2407.5
+2026-06-18,Engineering,Office Supplies,4518.75
+2026-06-18,Engineering,Marketing Spend,2877.54
+2026-06-18,Support,Marketing Spend,3403.8
+2026-06-18,Support,Travel,645.4
+2026-06-18,Operations,Travel,4747.85
+2026-06-18,Sales,Travel,4051.88
+2026-06-18,Sales,Software,2145.71
+2026-06-18,Operations,Travel,4986.48
+2026-06-18,Sales,Marketing Spend,1326.54
+2026-06-18,Engineering,Software,1971.09
+2026-06-19,Support,Payroll,4290.29
+2026-06-19,Support,Office Supplies,4589.95
+2026-06-19,Engineering,Contractors,3134.14
+2026-06-19,Support,Office Supplies,606.97
+2026-06-19,Sales,Travel,2854.64
+2026-06-19,Support,Software,4628.39
+2026-06-19,Support,Software,3939.44
+2026-06-19,Support,Payroll,4395.57
+2026-06-19,Marketing,Office Supplies,3291.2
+2026-06-19,Support,Marketing Spend,2391.58
+2026-06-20,Marketing,Office Supplies,762.07
+2026-06-20,Support,Contractors,3483.62
+2026-06-20,Engineering,Office Supplies,4453.39
+2026-06-20,Marketing,Contractors,1226.02
+2026-06-20,Operations,Payroll,4490.31
+2026-06-20,Engineering,Payroll,4096.06
+2026-06-21,Marketing,Payroll,4222.09
+2026-06-21,Engineering,Travel,715.21
+2026-06-21,Operations,,1383.63
+2026-06-21,Operations,Marketing Spend,3245.5
+2026-06-21,Sales,Office Supplies,1096.38
+2026-06-21,Operations,Contractors,2448.08
+2026-06-21,Support,Payroll,4114.04
+2026-06-21,Support,Travel,374.8
+2026-06-22,Operations,Travel,3913.56
+2026-06-22,Support,Marketing Spend,193.29
+2026-06-22,Sales,Travel,4193.03
+2026-06-22,Sales,Software,2309.42
+2026-06-22,Marketing,Contractors,1035.59
+2026-06-22,Marketing,Office Supplies,2550.38
+2026-06-22,Engineering,Contractors,201.29
+2026-06-22,Marketing,Office Supplies,2990.52
+2026-06-22,Sales,,2955.06
+2026-06-22,Marketing,Payroll,859.39
+2026-06-22,Marketing,Contractors,4162.81
+2026-06-22,Engineering,Payroll,185.88
+2026-06-23,Sales,Marketing Spend,3910.16
+2026-06-23,Sales,Travel,3254.53
+2026-06-23,Sales,Payroll,3275.36
+2026-06-23,Support,Software,4329.92
+2026-06-24,Operations,Travel,3254.49
+2026-06-24,Support,Software,1157.66
+2026-06-24,Support,Payroll,3578.07
+2026-06-24,Marketing,Office Supplies,4482.64
+2026-06-25,Operations,Payroll,1130.13
+2026-06-25,Marketing,Contractors,2627.16
+2026-06-25,Support,Office Supplies,2943.21
+2026-06-25,Engineering,Marketing Spend,4997.18
+2026-06-25,Marketing,Marketing Spend,3254.34
+2026-06-25,Support,Payroll,1527.46
+2026-06-25,Engineering,Office Supplies,365.99
+2026-06-25,Marketing,Contractors,1659.43
+2026-06-25,Marketing,Payroll,3297.79
+2026-06-26,Sales,Travel,2610.6
+2026-06-26,Sales,Software,4036.88
+2026-06-26,Support,Office Supplies,3319.63
+2026-06-26,Sales,Contractors,176.0
+2026-06-26,Operations,Payroll,1334.16
+2026-06-26,Operations,Office Supplies,1971.96
+2026-06-26,Engineering,Marketing Spend,3554.94
+2026-06-26,Support,Travel,1748.68
+2026-06-27,Support,Contractors,3935.24
+2026-06-27,Marketing,Marketing Spend,1535.96
+2026-06-27,Sales,Contractors,4388.65
+2026-06-27,Sales,Payroll,533.14
+2026-06-27,Sales,Contractors,1330.33
+2026-06-27,Support,Travel,4737.27
+2026-06-27,Marketing,Contractors,492.03
+2026-06-28,Sales,Contractors,4363.59
+2026-06-28,Operations,Payroll,1889.83
+2026-06-28,Support,Payroll,2345.62
+2026-06-28,Engineering,Office Supplies,315.7
+2026-06-28,Support,Marketing Spend,4724.29
+2026-06-28,Engineering,Office Supplies,4452.66
+2026-06-28,Support,Software,4344.11
+2026-06-28,Operations,Marketing Spend,1526.86
+2026-06-28,Engineering,Travel,729.96
+2026-06-29,Marketing,Office Supplies,4936.6
+2026-06-29,Operations,Travel,1616.1
+2026-06-29,Sales,Software,2463.53
+2026-06-29,Sales,Payroll,3190.77
+2026-06-29,Engineering,Office Supplies,1403.96
+2026-06-29,Sales,Marketing Spend,3834.19
+2026-06-29,Operations,Software,690.56
+2026-06-30,Operations,Office Supplies,2173.68
+2026-06-30,Operations,Office Supplies,73.11
+2026-06-30,Support,Travel,3666.76
+2026-06-30,Engineering,Payroll,3796.4
+2026-06-30,Support,Travel,138.68
+2026-06-30,Engineering,Contractors,3681.34
+2026-06-30,Sales,Contractors,4391.08
+2026-06-30,Marketing,Travel,558.41
+2026-06-30,Support,Marketing Spend,1565.27
+2026-06-30,Engineering,Software,1526.1
+2026-07-01,Operations,Contractors,2625.43
+2026-07-01,Support,Payroll,2196.64
+2026-07-01,Sales,,4980.89
+2026-07-01,Operations,Payroll,3763.07
+2026-07-01,Sales,Office Supplies,144.67
+2026-07-01,Sales,Contractors,4925.15
+2026-07-01,Sales,Contractors,158.47
+2026-07-01,Support,Travel,659.65
+2026-07-02,Operations,Contractors,1316.16
+2026-07-02,Support,Marketing Spend,290.51
+2026-07-02,Engineering,Contractors,585.16
+2026-07-02,Engineering,Software,3464.26
+2026-07-03,Operations,Office Supplies,661.8
+2026-07-03,Marketing,Office Supplies,3524.25
+2026-07-03,Sales,Contractors,3444.41
+2026-07-03,Engineering,Payroll,2133.31
+2026-07-03,Engineering,Contractors,2625.53
+2026-07-03,Support,Marketing Spend,3518.6
+2026-07-03,Operations,Software,2582.34
+2026-07-03,Support,Software,1449.4
+2026-07-03,Engineering,Office Supplies,1033.3
+2026-07-03,Sales,Payroll,4165.92
+2026-07-04,Marketing,Contractors,2078.29
+2026-07-04,Sales,Software,2763.29
+2026-07-04,Sales,Contractors,4668.97
+2026-07-04,Marketing,Travel,63.55
+2026-07-04,Engineering,Software,4184.4
+2026-07-04,Operations,Travel,4749.76
+2026-07-04,Support,Software,3631.64
+2026-07-05,Marketing,Contractors,1194.24
+2026-07-05,Marketing,Payroll,2348.17
+2026-07-05,Engineering,Travel,4377.0
+2026-07-05,Marketing,Payroll,4017.9
+2026-07-05,Marketing,Office Supplies,3705.77
+2026-07-06,Engineering,Software,4267.39
+2026-07-06,Sales,Payroll,1819.76
+2026-07-06,Operations,Marketing Spend,1378.13
+2026-07-06,Engineering,Payroll,4084.07
+2026-07-06,Sales,Software,2033.85
+2026-07-07,Marketing,Office Supplies,3465.02
+2026-07-07,Operations,Office Supplies,3261.79
+2026-07-07,Sales,Software,705.93
+2026-07-07,Engineering,Travel,563.38
+2026-07-07,Support,Office Supplies,4021.21
+2026-07-07,Operations,Travel,3076.05
+2026-07-07,Marketing,Marketing Spend,192.64
+2026-07-07,Sales,Office Supplies,4605.97
+2026-07-07,Engineering,Office Supplies,2231.41
+2026-07-07,Engineering,Payroll,3292.12
+2026-07-07,Engineering,Contractors,4348.24
+2026-07-08,Support,Contractors,2846.81
+2026-07-08,Marketing,Marketing Spend,2639.36
+2026-07-08,Support,Software,2192.6
+2026-07-08,Sales,Office Supplies,1761.46
+2026-07-08,Operations,Travel,4203.21
+2026-07-08,Support,Marketing Spend,320.1
+2026-07-08,Sales,Marketing Spend,4251.79
+2026-07-08,Operations,Travel,420.58
+2026-07-08,Operations,Payroll,1242.41
+2026-07-08,Marketing,Software,2559.3
+2026-07-08,Support,Contractors,1924.26
+2026-07-08,Sales,Software,2322.52
+2026-07-09,Engineering,Office Supplies,2262.99
+2026-07-09,Engineering,Office Supplies,3738.93
+2026-07-09,Engineering,Software,2047.03
+2026-07-09,Engineering,Marketing Spend,2768.04
+2026-07-09,Engineering,Marketing Spend,4817.7
+2026-07-09,Marketing,Marketing Spend,2833.55
+2026-07-09,Operations,Payroll,1848.55
+2026-07-09,Engineering,Travel,4229.37
+2026-07-09,Marketing,Marketing Spend,3848.71
+2026-07-09,Support,,3597.46
+2026-07-09,Marketing,Contractors,2290.04
+2026-07-10,Sales,Software,1739.72
+2026-07-10,Marketing,Marketing Spend,2633.83
+2026-07-10,Engineering,Software,4489.54
+2026-07-10,Operations,Travel,4118.1
+2026-07-10,Operations,Software,1308.73
+2026-07-11,Sales,Software,4654.57
+2026-07-11,Operations,Travel,2312.38
+2026-07-11,Sales,Contractors,1722.77
+2026-07-11,Operations,Software,4636.8
+2026-07-11,Support,Software,3872.12
+2026-07-11,Operations,Office Supplies,3309.36
+2026-07-11,Support,Travel,4821.08
+2026-07-12,Support,Contractors,290.43
+2026-07-12,Operations,Marketing Spend,2440.51
+2026-07-12,Support,Travel,3474.5
+2026-07-12,Sales,Contractors,4085.46
+2026-07-13,Operations,Contractors,3022.7
+2026-07-13,Marketing,Marketing Spend,4412.88
+2026-07-13,Operations,Marketing Spend,4583.76
+2026-07-13,Sales,Payroll,2019.46
+2026-07-13,Marketing,Payroll,2291.59
+2026-07-14,Sales,Office Supplies,3032.5
+2026-07-14,Support,Payroll,4223.22
+2026-07-14,Support,Payroll,3573.78
+2026-07-14,Support,Contractors,1125.85
+2026-07-14,Sales,Marketing Spend,3586.2
+2026-07-14,Marketing,,706.73
+2026-07-15,Support,Marketing Spend,3486.84
+2026-07-15,Marketing,Contractors,621.26
+2026-07-15,Marketing,Marketing Spend,2427.83
+2026-07-15,Support,Contractors,3565.11
+2026-07-15,Support,Payroll,4393.51
+2026-07-15,Operations,Software,2637.51
+2026-07-16,Operations,Travel,312.67
+2026-07-16,Engineering,Travel,1371.54
+2026-07-16,Sales,Payroll,3432.78
+2026-07-16,Sales,Software,3468.44
+2026-07-17,Sales,Marketing Spend,209.92
+2026-07-17,Operations,Software,3099.74
+2026-07-17,Support,Travel,3724.94
+2026-07-17,Support,Office Supplies,1226.1
+2026-07-17,Marketing,Contractors,3339.24
+2026-07-17,Operations,Office Supplies,2112.0
+2026-07-17,Marketing,Marketing Spend,316.32
+2026-07-17,Marketing,Travel,3121.78
+2026-07-18,Sales,Contractors,3537.91
+2026-07-18,Marketing,Marketing Spend,2755.74
+2026-07-18,Support,Travel,3891.93
+2026-07-18,Sales,Payroll,2271.63
+2026-07-18,Engineering,Travel,4814.25
+2026-07-18,Support,Software,1917.13
+2026-07-18,Operations,Payroll,2805.16
+2026-07-18,Sales,Travel,2940.73
+2026-07-18,Marketing,Software,1686.29
+2026-07-18,Sales,Software,810.83
+2026-07-18,Marketing,Marketing Spend,301.73
+2026-07-19,Operations,Marketing Spend,2773.29
+2026-07-19,Engineering,Contractors,1623.4
+2026-07-19,Sales,Travel,2627.0
+2026-07-19,Support,Travel,2108.86
+2026-07-19,Support,Office Supplies,505.13
+2026-07-19,Sales,Travel,3333.51
+2026-07-19,Marketing,Payroll,1503.19
+2026-07-19,Support,Marketing Spend,2400.54
+2026-07-20,Engineering,Software,3361.25
+2026-07-20,Operations,Travel,4527.26
+2026-07-20,Support,Marketing Spend,1256.94
+2026-07-20,Engineering,Contractors,4434.02
+2026-07-20,Operations,Software,1960.09
+2026-07-20,Support,Contractors,1450.0
+2026-07-20,Support,Payroll,2595.83
+2026-07-20,Support,Office Supplies,2459.68
+2026-07-20,Marketing,Contractors,1002.94
+2026-07-20,Support,Software,4743.65
+2026-07-20,Sales,Marketing Spend,2689.37
+2026-07-20,Engineering,Travel,3368.16
+2026-07-21,Operations,Software,1067.62
+2026-07-21,Operations,Contractors,4092.93
+2026-07-21,Engineering,Contractors,3445.92
+2026-07-21,Engineering,Office Supplies,3598.5
+2026-07-21,Engineering,Software,412.58
+2026-07-21,Sales,Payroll,2812.52
+2026-07-21,Support,Travel,4559.38
+2026-07-22,Operations,,3169.58
+2026-07-22,Operations,Payroll,133.61
+2026-07-22,Engineering,Marketing Spend,79.2
+2026-07-22,Support,Software,3792.0
+2026-07-22,Support,Software,3519.37
+2026-07-22,Engineering,Payroll,4643.84
+2026-07-22,Engineering,Payroll,3945.11
+2026-07-22,Marketing,Marketing Spend,478.2
+2026-07-22,Operations,Office Supplies,2005.81
+2026-07-22,Engineering,Office Supplies,823.8
+2026-07-23,Sales,Contractors,1985.41
+2026-07-23,Support,Payroll,4802.66
+2026-07-23,Sales,Payroll,3402.58
+2026-07-23,Marketing,Software,2789.94
+2026-07-23,Support,Travel,660.01
+2026-07-23,Engineering,Marketing Spend,3003.44
+2026-07-23,Support,Marketing Spend,4737.55
+2026-07-24,Sales,,3720.08
+2026-07-24,Marketing,Travel,2092.64
+2026-07-24,Support,Travel,846.72
+2026-07-24,Sales,Marketing Spend,4182.0
+2026-07-24,Sales,Software,947.72
+2026-07-24,Support,Software,4264.37
+2026-07-24,Support,Office Supplies,3241.14
+2026-07-24,Engineering,Payroll,3374.84
+2026-07-25,Engineering,Travel,3641.67
+2026-07-25,Operations,Payroll,1817.83
+2026-07-25,Sales,Software,1461.43
+2026-07-25,Engineering,Travel,1623.04
+2026-07-25,Operations,Payroll,3100.9
+2026-07-25,Marketing,Contractors,2941.64
+2026-07-25,Support,Marketing Spend,1854.24
+2026-07-25,Marketing,Office Supplies,884.77
+2026-07-26,Sales,Travel,3575.39
+2026-07-26,Operations,Payroll,4208.54
+2026-07-26,Sales,Contractors,3678.22
+2026-07-26,Operations,Office Supplies,2254.52
+2026-07-26,Marketing,Office Supplies,2780.78
+2026-07-26,Sales,Contractors,3052.81
+2026-07-26,Marketing,Travel,4461.92
+2026-07-26,Sales,Payroll,3681.05
+2026-07-26,Engineering,,423.23
+2026-07-27,Support,Contractors,204.41
+2026-07-27,Support,Marketing Spend,2055.42
+2026-07-27,Support,Travel,4536.2
+2026-07-27,Support,Payroll,2740.17
+2026-07-28,Operations,Contractors,3887.23
+2026-07-28,Marketing,Office Supplies,1155.37
+2026-07-28,Support,Contractors,4292.96
+2026-07-28,Sales,Office Supplies,2530.56
+2026-07-28,Engineering,Office Supplies,1851.13
+2026-07-28,Engineering,Contractors,1232.46
+2026-07-28,Support,Contractors,870.93
+2026-07-28,Support,Travel,2258.79
+2026-07-28,Sales,Marketing Spend,4746.12
+2026-07-28,Sales,Contractors,3673.42
+2026-07-28,Marketing,Software,1133.15
+2026-07-28,Operations,Travel,361.16
+2026-07-29,Sales,Software,3359.5
+2026-07-29,Support,Payroll,1971.06
+2026-07-29,Operations,Software,247.53
+2026-07-29,Marketing,Software,3533.49
+2026-07-29,Support,Contractors,4156.75
+2026-07-29,Marketing,Marketing Spend,2744.53
+2026-07-29,Sales,Office Supplies,3285.69
+2026-07-29,Marketing,Marketing Spend,3284.02
+2026-07-29,Engineering,Marketing Spend,1295.35
+2026-07-30,Support,Office Supplies,1796.85
+2026-07-30,Marketing,Office Supplies,3973.65
+2026-07-30,Support,Software,2534.09
+2026-07-30,Sales,Office Supplies,869.75
+2026-07-30,Engineering,Marketing Spend,3235.21
+2026-07-30,Sales,Travel,975.18
+2026-07-30,Marketing,Marketing Spend,3600.65
+2026-07-31,Sales,Office Supplies,4065.3
+2026-07-31,Engineering,Office Supplies,3392.39
+2026-07-31,Operations,,2974.41
+2026-07-31,Operations,Software,1256.17
+2026-07-31,Sales,Marketing Spend,2982.12
+2026-08-01,Support,Software,4459.45
+2026-08-01,Sales,Software,873.39
+2026-08-01,Sales,Marketing Spend,4793.28
+2026-08-01,Support,Marketing Spend,3206.23
+2026-08-01,Marketing,Software,1122.14
+2026-08-01,Support,Office Supplies,4343.15
+2026-08-02,Sales,,3024.15
+2026-08-02,Support,Travel,3134.9
+2026-08-02,Support,Payroll,880.22
+2026-08-02,Marketing,Office Supplies,3002.84
+2026-08-02,Engineering,Travel,1922.15
+2026-08-02,Sales,Software,131.99
+2026-08-03,Support,Contractors,2127.99
+2026-08-03,Sales,Marketing Spend,526.68
+2026-08-03,Operations,Marketing Spend,3019.08
+2026-08-03,Support,Marketing Spend,3774.3
+2026-08-03,Engineering,Office Supplies,3313.99
+2026-08-03,Support,Marketing Spend,4146.23
+2026-08-03,Operations,Marketing Spend,2132.39
+2026-08-03,Engineering,Contractors,2672.59
+2026-08-03,Sales,Office Supplies,3958.3
+2026-08-03,Operations,Payroll,2965.79
+2026-08-03,Support,Software,2156.17
+2026-08-03,Marketing,,3841.0
+2026-06-07,Engineering,Payroll,656.51

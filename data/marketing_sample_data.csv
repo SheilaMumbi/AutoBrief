@@ -1,0 +1,629 @@
+date,channel,campaign,spend,clicks,conversions
+2026-06-05,Organic,Spring Sale,237.52,140,3
+2026-06-05,Email,Retargeting,230.12,724,9
+2026-06-05,Display,Newsletter,167.11,456,27
+2026-06-05,Referral,Newsletter,232.07,568,17
+2026-06-05,Referral,Brand Awareness,259.67,716,35
+2026-06-05,Social,Product Launch,344.27,514,N/A
+2026-06-05,Email,Newsletter,219.73,279,12
+2026-06-05,Social,Holiday Promo,89.07,773,14
+2026-06-05,Display,Brand Awareness,78.16,477,25
+2026-06-05,Organic,Newsletter,424.29,366,22
+2026-06-05,Social,Retargeting,579.45,73,0
+2026-06-05,Social,Retargeting,557.0,113,6
+2026-06-05,Paid Search,Product Launch,148.63,110,1
+2026-06-05,Paid Search,Holiday Promo,242.91,643,25
+2026-06-06,Display,Newsletter,53.33,313,5
+2026-06-06,Referral,Retargeting,26.21,675,42
+2026-06-06,Email,Brand Awareness,39.49,550,32
+2026-06-06,Display,Brand Awareness,376.81,548,2
+2026-06-06,Social,Holiday Promo,20.17,388,5
+2026-06-06,Email,Retargeting,224.81,108,6
+2026-06-06,Organic,Brand Awareness,320.29,435,23
+2026-06-06,Paid Search,Spring Sale,338.76,740,46
+2026-06-06,Organic,Product Launch,221.54,592,17
+2026-06-06,Organic,Brand Awareness,283.76,251,12
+2026-06-06,Paid Search,Product Launch,121.52,608,32
+2026-06-06,Organic,Spring Sale,311.84,129,5
+2026-06-06,Organic,Product Launch,528.15,139,9
+2026-06-06,Display,Retargeting,580.31,276,18
+2026-06-07,Email,Retargeting,415.32,269,0
+2026-06-07,Paid Search,Product Launch,59.18,513,14
+2026-06-07,Display,Brand Awareness,484.09,713,26
+2026-06-07,Organic,Newsletter,25.64,381,8
+2026-06-07,Email,Spring Sale,251.38,274,10
+2026-06-07,Organic,Brand Awareness,296.4,97,2
+2026-06-07,Organic,,126.01,243,6
+2026-06-07,Display,Brand Awareness,156.22,530,15
+2026-06-07,Social,Brand Awareness,137.6,291,7
+2026-06-07,Email,Brand Awareness,471.78,653,7
+2026-06-07,Display,Holiday Promo,305.75,100,0
+2026-06-07,Paid Search,Retargeting,235.29,574,20
+2026-06-07,Organic,Product Launch,304.67,524,32
+2026-06-08,Social,Newsletter,94.38,427,16
+2026-06-08,Referral,Newsletter,38.89,453,11
+2026-06-08,Display,Brand Awareness,285.17,423,3
+2026-06-08,Organic,Retargeting,203.08,735,0
+2026-06-08,Display,Brand Awareness,240.07,32,0
+2026-06-08,Email,Newsletter,519.87,353,5
+2026-06-08,Email,Brand Awareness,176.26,581,21
+2026-06-08,Social,Retargeting,265.89,394,13
+2026-06-08,Email,Product Launch,515.51,737,17
+2026-06-08,Social,Newsletter,96.06,481,14
+2026-06-09,Email,Brand Awareness,342.1,758,24
+2026-06-09,Social,Holiday Promo,106.74,220,12
+2026-06-09,Social,Retargeting,309.77,29,1
+2026-06-09,Email,Product Launch,346.04,518,3
+2026-06-09,Paid Search,Holiday Promo,114.74,427,6
+2026-06-09,Referral,Holiday Promo,75.86,280,10
+2026-06-09,Email,Product Launch,345.0,286,8
+2026-06-10,Referral,Spring Sale,223.63,40,2
+2026-06-10,Social,Newsletter,354.02,640,41
+2026-06-10,Social,Product Launch,225.96,571,32
+2026-06-10,Display,Retargeting,535.99,519,24
+2026-06-10,Email,Retargeting,386.39,648,9
+2026-06-10,Display,Product Launch,264.65,191,9
+2026-06-10,Referral,Spring Sale,65.88,605,21
+2026-06-10,Email,Product Launch,398.75,253,8
+2026-06-10,Display,Retargeting,177.32,639,28
+2026-06-10,Display,Newsletter,322.14,391,14
+2026-06-10,Social,Brand Awareness,515.44,443,4
+2026-06-11,Email,Holiday Promo,426.4,697,5
+2026-06-11,Social,Retargeting,79.75,235,2
+2026-06-11,Organic,Spring Sale,35.29,504,25
+2026-06-11,Paid Search,Spring Sale,172.22,556,9
+2026-06-11,Display,Retargeting,199.43,106,3
+2026-06-11,Email,Retargeting,383.36,775,8
+2026-06-11,Social,Spring Sale,40.39,559,22
+2026-06-11,Referral,Retargeting,585.49,353,17
+2026-06-11,Organic,Retargeting,98.37,298,17
+2026-06-12,Organic,Retargeting,386.01,625,40
+2026-06-12,Referral,Newsletter,391.08,597,34
+2026-06-12,Email,Retargeting,333.01,337,2
+2026-06-12,Email,Product Launch,259.08,472,9
+2026-06-12,Paid Search,,323.52,330,4
+2026-06-12,Email,Retargeting,330.36,372,22
+2026-06-12,Referral,Product Launch,25.3,523,27
+2026-06-12,Organic,Brand Awareness,482.13,319,17
+2026-06-13,Referral,Newsletter,273.52,213,3
+2026-06-13,Display,Holiday Promo,394.67,187,6
+2026-06-13,Email,Spring Sale,264.9,245,7
+2026-06-13,Organic,Holiday Promo,417.09,549,18
+2026-06-13,Display,Newsletter,489.11,684,26
+2026-06-13,Paid Search,Brand Awareness,99.24,212,1
+2026-06-13,Referral,Newsletter,282.6,672,44
+2026-06-13,Referral,Brand Awareness,205.97,657,9
+2026-06-13,Organic,Spring Sale,127.84,70,0
+2026-06-13,Email,Brand Awareness,434.81,308,0
+2026-06-13,Paid Search,Brand Awareness,28.54,258,6
+2026-06-14,Email,Retargeting,598.82,450,14
+2026-06-14,Paid Search,Product Launch,66.53,733,48
+2026-06-14,Paid Search,Product Launch,469.88,169,1
+2026-06-14,Referral,Brand Awareness,131.47,576,16
+2026-06-14,Paid Search,Spring Sale,585.27,410,22
+2026-06-14,Referral,,163.35,274,1
+2026-06-14,Referral,Holiday Promo,467.18,223,8
+2026-06-14,Social,Retargeting,245.69,701,19
+2026-06-14,Social,Holiday Promo,442.38,350,23
+2026-06-14,Organic,Spring Sale,166.92,582,19
+2026-06-14,Email,Spring Sale,520.92,223,3
+2026-06-15,Display,Retargeting,208.22,261,5
+2026-06-15,Organic,Spring Sale,249.57,302,7
+2026-06-15,Paid Search,Newsletter,474.42,29,1
+2026-06-15,Organic,Brand Awareness,235.41,724,5
+2026-06-15,Social,Retargeting,73.01,274,10
+2026-06-15,Display,Spring Sale,54.67,797,41
+2026-06-15,Display,Newsletter,479.05,177,2
+2026-06-16,Email,Newsletter,477.37,258,11
+2026-06-16,Display,Brand Awareness,32.38,469,24
+2026-06-16,Display,Brand Awareness,165.4,386,1
+2026-06-16,Display,Retargeting,344.23,516,34
+2026-06-16,Referral,Brand Awareness,348.69,733,34
+2026-06-16,Email,Holiday Promo,291.67,376,19
+2026-06-16,Social,Spring Sale,328.06,587,28
+2026-06-16,Email,Newsletter,232.93,322,0
+2026-06-16,Organic,Retargeting,445.52,673,1
+2026-06-16,Email,Newsletter,158.5,654,4
+2026-06-16,Organic,Retargeting,130.12,694,43
+2026-06-16,Organic,Brand Awareness,375.56,529,20
+2026-06-16,Display,Product Launch,84.07,439,16
+2026-06-17,Social,Brand Awareness,526.63,64,1
+2026-06-17,Referral,Brand Awareness,77.28,129,6
+2026-06-17,Referral,Newsletter,381.9,693,37
+2026-06-17,Paid Search,Product Launch,148.02,282,2
+2026-06-17,Social,Holiday Promo,305.02,33,0
+2026-06-17,Display,Spring Sale,229.34,499,26
+2026-06-17,Display,Spring Sale,497.71,397,8
+2026-06-18,Display,Spring Sale,503.98,61,0
+2026-06-18,Organic,Spring Sale,78.71,241,7
+2026-06-18,Referral,Brand Awareness,132.01,564,15
+2026-06-18,Display,Brand Awareness,343.89,603,35
+2026-06-18,Display,Spring Sale,464.44,445,18
+2026-06-18,Display,Retargeting,427.48,386,13
+2026-06-18,Social,Brand Awareness,338.98,126,8
+2026-06-18,Display,Brand Awareness,329.66,365,19
+2026-06-18,Email,Product Launch,339.05,473,20
+2026-06-18,Referral,Holiday Promo,269.74,400,23
+2026-06-18,Organic,Brand Awareness,346.62,351,6
+2026-06-18,Organic,Holiday Promo,167.37,404,14
+2026-06-18,Referral,Spring Sale,441.26,478,18
+2026-06-18,Paid Search,Newsletter,98.35,630,19
+2026-06-19,Social,Brand Awareness,516.32,327,0
+2026-06-19,Email,Newsletter,316.54,726,36
+2026-06-19,Social,Spring Sale,41.89,605,22
+2026-06-19,Social,Product Launch,232.91,179,9
+2026-06-19,Social,Product Launch,490.42,275,2
+2026-06-19,Referral,Newsletter,552.37,604,4
+2026-06-20,Social,Retargeting,498.91,514,6
+2026-06-20,Display,Product Launch,41.68,629,36
+2026-06-20,Paid Search,Spring Sale,554.69,410,10
+2026-06-20,Referral,Retargeting,559.54,376,3
+2026-06-20,Display,Holiday Promo,512.7,252,0
+2026-06-20,Display,Retargeting,51.39,669,33
+2026-06-20,Email,Newsletter,347.65,62,2
+2026-06-20,Display,Brand Awareness,108.85,534,25
+2026-06-20,Organic,Newsletter,312.74,476,14
+2026-06-20,Email,,105.85,462,10
+2026-06-20,Referral,Newsletter,452.28,104,4
+2026-06-21,Paid Search,Retargeting,311.06,288,4
+2026-06-21,Social,Retargeting,344.39,800,31
+2026-06-21,Display,Newsletter,133.74,424,19
+2026-06-21,Organic,Brand Awareness,160.54,773,17
+2026-06-21,Email,Holiday Promo,556.0,460,2
+2026-06-21,Display,Retargeting,265.65,135,5
+2026-06-21,Email,Product Launch,364.45,215,0
+2026-06-21,Social,Product Launch,377.41,332,14
+2026-06-21,Social,Retargeting,46.03,658,14
+2026-06-21,Display,Product Launch,110.47,224,11
+2026-06-21,Paid Search,Holiday Promo,51.63,107,2
+2026-06-21,Paid Search,Product Launch,422.4,314,3
+2026-06-22,Referral,Spring Sale,212.49,480,13
+2026-06-22,Organic,Newsletter,455.21,228,15
+2026-06-22,Display,Brand Awareness,423.14,657,42
+2026-06-22,Referral,Newsletter,545.5,38,2
+2026-06-22,Email,Brand Awareness,54.86,64,1
+2026-06-22,Organic,Product Launch,50.79,733,41
+2026-06-22,Paid Search,Retargeting,403.02,28,1
+2026-06-22,Paid Search,Product Launch,523.1,130,6
+2026-06-22,Referral,Newsletter,586.43,256,3
+2026-06-22,Referral,Newsletter,328.31,343,5
+2026-06-23,Referral,Newsletter,557.28,532,1
+2026-06-23,Social,Newsletter,196.86,60,3
+2026-06-23,Display,Brand Awareness,30.66,422,21
+2026-06-23,Email,Holiday Promo,195.35,380,16
+2026-06-23,Paid Search,Holiday Promo,169.45,302,12
+2026-06-23,Organic,Product Launch,150.84,50,2
+2026-06-23,Display,Brand Awareness,70.92,422,12
+2026-06-23,Display,Newsletter,526.17,553,14
+2026-06-23,Social,Newsletter,108.59,447,9
+2026-06-24,Organic,Brand Awareness,139.92,479,8
+2026-06-24,Organic,Holiday Promo,484.06,614,8
+2026-06-24,Display,Holiday Promo,541.21,336,4
+2026-06-24,Social,Holiday Promo,561.16,460,29
+2026-06-24,Email,Spring Sale,343.26,181,11
+2026-06-24,Social,Product Launch,506.92,141,2
+2026-06-24,Paid Search,Product Launch,530.48,764,26
+2026-06-24,Email,Retargeting,452.45,441,26
+2026-06-24,Display,Product Launch,108.14,672,12
+2026-06-24,Social,Brand Awareness,35.19,129,4
+2026-06-24,Organic,Newsletter,153.93,640,14
+2026-06-25,Paid Search,Product Launch,66.1,723,30
+2026-06-25,Organic,Newsletter,291.88,157,10
+2026-06-25,Social,Retargeting,305.04,402,4
+2026-06-25,Social,Brand Awareness,38.69,187,12
+2026-06-25,Email,Retargeting,149.08,35,2
+2026-06-25,Social,Spring Sale,122.71,227,14
+2026-06-25,Referral,Holiday Promo,208.44,651,29
+2026-06-25,Referral,,470.2,272,12
+2026-06-25,Email,Retargeting,374.67,757,47
+2026-06-26,Display,Holiday Promo,476.41,557,33
+2026-06-26,Referral,Retargeting,499.67,131,0
+2026-06-26,Organic,Newsletter,249.45,271,1
+2026-06-26,Referral,Newsletter,463.79,591,3
+2026-06-26,Email,Retargeting,250.86,214,4
+2026-06-26,Referral,Brand Awareness,265.03,312,19
+2026-06-26,Display,Newsletter,544.13,75,3
+2026-06-26,Referral,Spring Sale,439.14,681,7
+2026-06-26,Organic,Holiday Promo,336.92,204,6
+2026-06-26,Email,Retargeting,34.45,443,14
+2026-06-26,Display,Brand Awareness,531.88,624,5
+2026-06-26,Email,Holiday Promo,396.17,276,5
+2026-06-26,Display,Spring Sale,72.89,755,45
+2026-06-26,Display,Product Launch,69.48,480,24
+2026-06-27,Social,Retargeting,339.2,646,2
+2026-06-27,Email,Newsletter,525.36,194,2
+2026-06-27,Social,Brand Awareness,466.11,186,0
+2026-06-27,Email,Product Launch,443.49,449,14
+2026-06-27,Display,Brand Awareness,88.18,315,4
+2026-06-27,Paid Search,Newsletter,463.93,227,0
+2026-06-27,Referral,Retargeting,335.23,489,0
+2026-06-27,Referral,Brand Awareness,145.79,642,42
+2026-06-27,Referral,Retargeting,276.29,507,0
+2026-06-27,Organic,Product Launch,379.46,270,17
+2026-06-27,Paid Search,Brand Awareness,105.99,232,11
+2026-06-27,Social,Spring Sale,406.86,57,2
+2026-06-27,Paid Search,Spring Sale,83.15,359,5
+2026-06-27,Display,Product Launch,374.43,185,11
+2026-06-28,Referral,Holiday Promo,355.8,201,0
+2026-06-28,Email,Product Launch,233.77,115,6
+2026-06-28,Referral,Newsletter,57.66,89,3
+2026-06-28,Paid Search,Holiday Promo,518.46,157,5
+2026-06-28,Referral,Newsletter,141.71,559,13
+2026-06-28,Paid Search,Spring Sale,351.39,646,40
+2026-06-28,Paid Search,Retargeting,439.96,561,18
+2026-06-28,Organic,Product Launch,170.6,457,18
+2026-06-28,Email,Brand Awareness,376.29,658,31
+2026-06-28,Display,Holiday Promo,308.69,552,11
+2026-06-28,Social,Holiday Promo,188.48,644,12
+2026-06-28,Paid Search,Spring Sale,289.63,21,0
+2026-06-28,Social,Newsletter,599.41,775,26
+2026-06-28,Email,Product Launch,345.04,66,1
+2026-06-29,Social,Holiday Promo,183.34,675,4
+2026-06-29,Email,Newsletter,339.0,335,0
+2026-06-29,Display,Product Launch,217.99,136,9
+2026-06-29,Paid Search,Brand Awareness,132.53,650,21
+2026-06-29,Referral,Retargeting,482.41,708,41
+2026-06-29,Referral,Brand Awareness,383.78,159,8
+2026-06-30,Referral,Holiday Promo,52.49,493,19
+2026-06-30,Display,Holiday Promo,202.99,598,34
+2026-06-30,Social,Newsletter,417.59,39,1
+2026-06-30,Social,Product Launch,507.63,87,2
+2026-06-30,Display,Newsletter,508.6,404,18
+2026-06-30,Referral,Brand Awareness,365.21,640,19
+2026-06-30,Email,Holiday Promo,38.34,742,26
+2026-06-30,Referral,Brand Awareness,235.52,108,4
+2026-06-30,Organic,Product Launch,121.51,241,11
+2026-06-30,Social,Spring Sale,277.39,58,0
+2026-06-30,Organic,Brand Awareness,130.32,514,30
+2026-07-01,Email,Brand Awareness,466.3,337,3
+2026-07-01,Display,Brand Awareness,139.01,548,2
+2026-07-01,Referral,Holiday Promo,521.59,490,7
+2026-07-01,Email,Spring Sale,418.49,24,0
+2026-07-01,Referral,,79.8,361,24
+2026-07-01,Display,Product Launch,33.04,694,19
+2026-07-01,Social,Product Launch,136.32,674,18
+2026-07-01,Organic,Product Launch,468.22,303,3
+2026-07-01,Social,Brand Awareness,178.71,299,0
+2026-07-01,Organic,Newsletter,79.38,657,34
+2026-07-01,Organic,Product Launch,177.21,378,22
+2026-07-01,Organic,Brand Awareness,119.34,310,9
+2026-07-01,Email,Newsletter,277.32,647,8
+2026-07-01,Referral,Holiday Promo,49.26,49,3
+2026-07-02,Referral,Retargeting,123.81,108,7
+2026-07-02,Email,Product Launch,212.75,651,12
+2026-07-02,Display,Newsletter,65.56,750,48
+2026-07-02,Organic,Brand Awareness,73.89,496,29
+2026-07-02,Referral,Product Launch,417.0,119,7
+2026-07-02,Social,Brand Awareness,103.36,501,16
+2026-07-03,Social,Holiday Promo,552.01,421,10
+2026-07-03,Referral,Retargeting,37.55,352,15
+2026-07-03,Email,Retargeting,287.52,135,2
+2026-07-03,Email,Newsletter,353.31,309,16
+2026-07-03,Referral,Holiday Promo,482.12,125,5
+2026-07-03,Display,Spring Sale,479.61,589,34
+2026-07-03,Referral,Newsletter,259.8,492,15
+2026-07-03,Social,Retargeting,242.61,581,21
+2026-07-03,Display,,270.07,233,13
+2026-07-03,Email,Newsletter,422.6,600,11
+2026-07-03,Display,Spring Sale,448.83,698,45
+2026-07-04,Organic,Newsletter,288.49,137,8
+2026-07-04,Referral,Brand Awareness,198.66,119,6
+2026-07-04,Organic,Spring Sale,417.6,91,4
+2026-07-04,Email,Retargeting,394.09,408,1
+2026-07-04,Social,Brand Awareness,534.61,112,0
+2026-07-04,Social,Holiday Promo,106.55,795,34
+2026-07-04,Referral,Newsletter,355.2,318,6
+2026-07-04,Display,Product Launch,193.85,230,9
+2026-07-04,Display,Product Launch,594.37,465,0
+2026-07-04,Organic,Retargeting,511.63,646,18
+2026-07-04,Email,Newsletter,581.38,83,0
+2026-07-04,Organic,Product Launch,83.63,740,18
+2026-07-04,Social,Retargeting,427.29,51,3
+2026-07-05,Referral,Retargeting,241.31,748,34
+2026-07-05,Display,Brand Awareness,295.43,236,6
+2026-07-05,Referral,Product Launch,507.18,588,9
+2026-07-05,Display,Brand Awareness,97.88,315,2
+2026-07-05,Paid Search,,438.38,683,31
+2026-07-05,Referral,Brand Awareness,69.1,693,41
+2026-07-05,Referral,Holiday Promo,370.57,445,13
+2026-07-05,Social,Retargeting,315.46,658,35
+2026-07-05,Referral,Product Launch,150.93,480,27
+2026-07-05,Paid Search,Newsletter,308.93,639,15
+2026-07-05,Organic,Product Launch,258.29,749,34
+2026-07-06,Paid Search,Newsletter,300.3,54,2
+2026-07-06,Organic,Retargeting,577.81,135,1
+2026-07-06,Display,Holiday Promo,325.32,165,4
+2026-07-06,Organic,Spring Sale,323.55,496,5
+2026-07-06,Referral,Holiday Promo,450.18,271,2
+2026-07-06,Display,Newsletter,482.9,720,19
+2026-07-06,Paid Search,Product Launch,330.32,647,0
+2026-07-06,Referral,Newsletter,545.51,500,21
+2026-07-06,Email,Product Launch,187.74,451,1
+2026-07-06,Organic,,196.36,731,36
+2026-07-06,Paid Search,Holiday Promo,294.43,286,5
+2026-07-07,Email,Holiday Promo,382.1,692,18
+2026-07-07,Paid Search,Brand Awareness,313.25,516,17
+2026-07-07,Social,Newsletter,182.96,278,8
+2026-07-07,Display,Spring Sale,370.22,34,2
+2026-07-07,Social,Holiday Promo,279.06,776,51
+2026-07-07,Email,Holiday Promo,156.99,199,2
+2026-07-08,Email,Spring Sale,581.06,53,1
+2026-07-08,Referral,Retargeting,158.01,527,28
+2026-07-08,Display,Brand Awareness,142.3,763,46
+2026-07-08,Paid Search,Holiday Promo,173.35,373,3
+2026-07-08,Social,Retargeting,251.27,73,2
+2026-07-08,Display,Newsletter,155.52,507,24
+2026-07-08,Email,Brand Awareness,327.66,505,27
+2026-07-08,Email,Retargeting,241.56,32,1
+2026-07-08,Display,Spring Sale,76.47,562,34
+2026-07-08,Email,Retargeting,374.08,672,41
+2026-07-08,Email,Product Launch,174.91,299,3
+2026-07-08,Display,Newsletter,246.87,281,7
+2026-07-08,Display,Newsletter,466.89,771,33
+2026-07-08,Display,Holiday Promo,596.06,365,10
+2026-07-09,Display,Spring Sale,502.38,30,0
+2026-07-09,Paid Search,Newsletter,80.27,441,14
+2026-07-09,Social,Holiday Promo,184.31,379,6
+2026-07-09,Paid Search,Newsletter,73.33,54,1
+2026-07-09,Display,Spring Sale,430.68,633,7
+2026-07-09,Organic,Brand Awareness,238.06,108,2
+2026-07-09,Display,Brand Awareness,166.93,133,7
+2026-07-09,Paid Search,Holiday Promo,283.0,696,17
+2026-07-09,Display,Holiday Promo,466.53,457,10
+2026-07-09,Social,Spring Sale,180.83,283,1
+2026-07-09,Referral,Product Launch,597.66,411,8
+2026-07-09,Social,Retargeting,60.25,291,6
+2026-07-09,Referral,Brand Awareness,394.38,644,6
+2026-07-09,Organic,Retargeting,146.66,167,10
+2026-07-10,Display,Product Launch,79.91,472,4
+2026-07-10,Organic,Holiday Promo,165.35,92,3
+2026-07-10,Referral,Brand Awareness,398.66,39,0
+2026-07-10,Display,Retargeting,174.53,58,2
+2026-07-10,Organic,Spring Sale,318.92,420,24
+2026-07-10,Referral,Retargeting,254.27,522,4
+2026-07-10,Social,Spring Sale,242.97,573,30
+2026-07-11,Organic,Product Launch,213.4,600,19
+2026-07-11,Paid Search,Holiday Promo,598.27,430,20
+2026-07-11,Email,Newsletter,514.94,112,5
+2026-07-11,Referral,Product Launch,395.72,102,1
+2026-07-11,Paid Search,Retargeting,403.23,587,19
+2026-07-11,Referral,Spring Sale,385.76,732,22
+2026-07-11,Paid Search,Holiday Promo,274.03,518,12
+2026-07-12,Social,Spring Sale,437.45,56,1
+2026-07-12,Referral,Spring Sale,479.79,520,19
+2026-07-12,Organic,Retargeting,580.61,531,1
+2026-07-12,Email,Spring Sale,215.88,57,0
+2026-07-12,Paid Search,Brand Awareness,488.12,435,21
+2026-07-12,Referral,Holiday Promo,524.72,555,34
+2026-07-12,Display,Newsletter,155.13,172,1
+2026-07-12,Display,Brand Awareness,303.56,57,0
+2026-07-13,Paid Search,Brand Awareness,426.75,653,8
+2026-07-13,Social,Holiday Promo,48.98,34,1
+2026-07-13,Referral,Newsletter,119.0,119,1
+2026-07-13,Paid Search,Retargeting,365.09,128,3
+2026-07-13,Social,Retargeting,215.66,84,5
+2026-07-13,Referral,Product Launch,90.07,714,43
+2026-07-13,Organic,Brand Awareness,206.52,609,13
+2026-07-13,Organic,Brand Awareness,214.59,66,0
+2026-07-13,Social,Retargeting,117.47,300,11
+2026-07-13,Social,Retargeting,161.31,586,37
+2026-07-13,Social,Spring Sale,478.81,61,4
+2026-07-13,Social,Spring Sale,530.18,405,2
+2026-07-13,Paid Search,Brand Awareness,557.16,26,1
+2026-07-14,Referral,Holiday Promo,93.6,730,9
+2026-07-14,Email,Newsletter,281.24,675,15
+2026-07-14,Organic,Holiday Promo,41.82,198,2
+2026-07-14,Referral,Newsletter,571.17,754,40
+2026-07-14,Email,Retargeting,22.65,328,7
+2026-07-14,Paid Search,,586.54,216,9
+2026-07-14,Organic,Newsletter,147.18,390,24
+2026-07-14,Display,Brand Awareness,180.33,661,12
+2026-07-14,Social,Holiday Promo,509.39,135,7
+2026-07-14,Social,Brand Awareness,408.68,529,2
+2026-07-14,Display,Product Launch,185.34,75,3
+2026-07-14,Email,,486.99,277,14
+2026-07-15,Display,Spring Sale,556.42,126,2
+2026-07-15,Paid Search,Retargeting,318.64,181,1
+2026-07-15,Display,Retargeting,363.77,260,10
+2026-07-15,Social,Holiday Promo,412.57,449,10
+2026-07-15,Paid Search,Product Launch,152.11,255,7
+2026-07-15,Referral,Brand Awareness,237.81,775,14
+2026-07-16,Organic,Retargeting,51.52,502,27
+2026-07-16,Social,Newsletter,283.89,168,6
+2026-07-16,Social,Retargeting,437.5,402,20
+2026-07-16,Email,,214.82,387,1
+2026-07-16,Organic,Spring Sale,182.75,728,7
+2026-07-16,Referral,Retargeting,119.3,496,21
+2026-07-16,Email,Newsletter,110.94,245,5
+2026-07-17,Paid Search,Retargeting,517.04,255,15
+2026-07-17,Organic,Retargeting,505.45,241,8
+2026-07-17,Display,Retargeting,446.98,34,0
+2026-07-17,Email,Retargeting,356.09,273,18
+2026-07-17,Organic,Spring Sale,262.31,172,0
+2026-07-17,Referral,Holiday Promo,465.79,61,0
+2026-07-17,Organic,Retargeting,297.98,455,25
+2026-07-17,Paid Search,Retargeting,307.27,733,5
+2026-07-17,Paid Search,Holiday Promo,444.44,591,13
+2026-07-17,Email,Product Launch,158.66,155,1
+2026-07-17,Referral,Holiday Promo,196.81,36,2
+2026-07-17,Organic,Holiday Promo,358.52,490,29
+2026-07-17,Social,Holiday Promo,255.11,494,23
+2026-07-17,Referral,,387.37,661,40
+2026-07-18,Display,Product Launch,327.93,414,9
+2026-07-18,Email,Holiday Promo,568.74,456,17
+2026-07-18,Social,Holiday Promo,66.96,609,21
+2026-07-18,Paid Search,Newsletter,568.29,773,43
+2026-07-18,Paid Search,Spring Sale,242.11,392,14
+2026-07-18,Paid Search,Product Launch,232.53,653,41
+2026-07-18,Display,Spring Sale,345.24,592,13
+2026-07-19,Social,Newsletter,85.86,362,15
+2026-07-19,Organic,Holiday Promo,141.68,775,47
+2026-07-19,Social,Product Launch,224.57,799,17
+2026-07-19,Display,Retargeting,180.74,535,4
+2026-07-19,Email,Retargeting,302.01,401,16
+2026-07-19,Referral,Holiday Promo,328.5,145,8
+2026-07-19,Referral,Newsletter,233.52,319,21
+2026-07-19,Paid Search,Brand Awareness,537.3,729,29
+2026-07-20,Referral,Brand Awareness,187.26,102,0
+2026-07-20,Social,Product Launch,84.97,131,2
+2026-07-20,Social,Brand Awareness,322.0,528,1
+2026-07-20,Referral,Holiday Promo,334.03,320,4
+2026-07-20,Email,Retargeting,277.44,505,1
+2026-07-20,Social,Spring Sale,32.78,318,7
+2026-07-20,Display,Product Launch,258.78,552,21
+2026-07-21,Organic,Holiday Promo,424.18,517,28
+2026-07-21,Email,Newsletter,96.53,488,19
+2026-07-21,Email,Brand Awareness,300.86,195,4
+2026-07-21,Social,Product Launch,184.94,68,1
+2026-07-21,Social,Holiday Promo,330.48,653,11
+2026-07-21,Display,Holiday Promo,544.73,199,12
+2026-07-21,Social,Brand Awareness,87.81,177,5
+2026-07-21,Social,Retargeting,171.04,608,11
+2026-07-21,Organic,Holiday Promo,40.12,230,10
+2026-07-21,Social,Product Launch,280.09,372,5
+2026-07-21,Email,,553.85,566,25
+2026-07-22,Referral,Product Launch,110.51,168,11
+2026-07-22,Organic,Product Launch,395.4,579,18
+2026-07-22,Email,Newsletter,406.79,505,28
+2026-07-22,Display,Spring Sale,444.35,366,1
+2026-07-22,Display,Newsletter,87.79,162,0
+2026-07-22,Organic,Brand Awareness,278.66,431,2
+2026-07-22,Paid Search,Newsletter,391.96,354,18
+2026-07-22,Social,Product Launch,133.52,559,5
+2026-07-22,Referral,Holiday Promo,409.5,571,5
+2026-07-22,Referral,Brand Awareness,304.47,544,32
+2026-07-22,Display,Product Launch,250.58,77,5
+2026-07-22,Email,Retargeting,236.24,457,9
+2026-07-22,Email,Product Launch,586.96,373,17
+2026-07-23,Display,Retargeting,450.09,240,13
+2026-07-23,Email,Brand Awareness,487.29,473,27
+2026-07-23,Referral,Brand Awareness,504.6,766,38
+2026-07-23,Social,Brand Awareness,195.87,108,5
+2026-07-23,Organic,Retargeting,71.3,87,3
+2026-07-23,Email,Retargeting,121.44,674,29
+2026-07-23,Organic,Brand Awareness,135.57,747,24
+2026-07-24,Referral,,497.22,587,19
+2026-07-24,Email,Retargeting,344.38,619,29
+2026-07-24,Paid Search,Spring Sale,109.33,249,9
+2026-07-24,Display,Retargeting,92.02,675,42
+2026-07-24,Referral,Brand Awareness,305.29,314,20
+2026-07-24,Paid Search,Spring Sale,463.54,270,15
+2026-07-24,Organic,Holiday Promo,229.82,88,3
+2026-07-24,Referral,Product Launch,384.24,599,30
+2026-07-24,Paid Search,Product Launch,317.27,730,36
+2026-07-24,Email,Brand Awareness,357.36,37,0
+2026-07-25,Display,Brand Awareness,227.28,492,3
+2026-07-25,Email,Retargeting,389.02,299,11
+2026-07-25,Email,Product Launch,327.18,69,0
+2026-07-25,Social,Holiday Promo,126.28,546,6
+2026-07-25,Social,Newsletter,207.11,633,20
+2026-07-25,Email,Product Launch,417.56,721,44
+2026-07-25,Paid Search,Newsletter,356.43,391,26
+2026-07-25,Paid Search,Brand Awareness,320.54,167,5
+2026-07-25,Referral,Product Launch,554.13,516,10
+2026-07-25,Social,Brand Awareness,311.96,124,3
+2026-07-25,Organic,Holiday Promo,502.22,592,33
+2026-07-26,Organic,Holiday Promo,458.66,749,7
+2026-07-26,Referral,Spring Sale,87.61,447,4
+2026-07-26,Referral,Product Launch,200.71,37,1
+2026-07-26,Referral,Newsletter,323.41,162,5
+2026-07-26,Display,Product Launch,36.68,196,13
+2026-07-26,Social,Brand Awareness,516.95,141,2
+2026-07-26,Social,Product Launch,92.7,724,8
+2026-07-26,Referral,Holiday Promo,462.55,100,0
+2026-07-26,Paid Search,Retargeting,459.25,99,0
+2026-07-26,Paid Search,Spring Sale,479.97,221,8
+2026-07-26,Paid Search,Retargeting,88.97,627,16
+2026-07-26,Paid Search,Product Launch,407.2,64,0
+2026-07-26,Organic,Brand Awareness,360.81,146,3
+2026-07-26,Display,Product Launch,36.97,209,2
+2026-07-27,Email,Product Launch,113.12,613,32
+2026-07-27,Organic,Brand Awareness,312.85,766,4
+2026-07-27,Organic,Spring Sale,326.73,121,3
+2026-07-27,Social,Newsletter,22.51,308,3
+2026-07-27,Organic,Holiday Promo,295.33,239,5
+2026-07-27,Display,Spring Sale,124.89,470,22
+2026-07-27,Referral,Brand Awareness,318.27,408,13
+2026-07-27,Email,Spring Sale,290.22,135,8
+2026-07-27,Referral,Product Launch,428.74,159,8
+2026-07-27,Paid Search,Spring Sale,210.31,759,7
+2026-07-28,Referral,Newsletter,446.98,310,14
+2026-07-28,Organic,Retargeting,188.54,251,13
+2026-07-28,Paid Search,Retargeting,564.67,213,5
+2026-07-28,Paid Search,Holiday Promo,305.16,203,1
+2026-07-28,Referral,Newsletter,401.96,425,2
+2026-07-28,Social,Retargeting,252.36,142,9
+2026-07-28,Display,Brand Awareness,57.53,124,3
+2026-07-28,Social,Newsletter,509.54,366,12
+2026-07-28,Social,Retargeting,440.62,145,4
+2026-07-28,Organic,Newsletter,178.32,750,50
+2026-07-28,Referral,Product Launch,295.98,679,38
+2026-07-28,Referral,Newsletter,181.76,434,24
+2026-07-29,Paid Search,Product Launch,303.82,130,3
+2026-07-29,Social,Spring Sale,77.77,663,3
+2026-07-29,Referral,Holiday Promo,35.51,89,1
+2026-07-29,Organic,Holiday Promo,209.63,411,9
+2026-07-29,Organic,Spring Sale,460.9,656,42
+2026-07-29,Organic,Retargeting,479.78,789,12
+2026-07-29,Display,Retargeting,304.35,320,8
+2026-07-29,Email,Newsletter,337.04,575,2
+2026-07-29,Paid Search,Retargeting,281.07,460,27
+2026-07-29,Referral,Retargeting,40.87,405,5
+2026-07-29,Display,Product Launch,533.13,590,10
+2026-07-29,Referral,Brand Awareness,201.23,523,24
+2026-07-29,Paid Search,Newsletter,411.51,519,34
+2026-07-30,Organic,Brand Awareness,313.88,507,25
+2026-07-30,Referral,Newsletter,583.11,289,19
+2026-07-30,Email,Product Launch,205.88,712,1
+2026-07-30,Paid Search,Brand Awareness,505.42,624,22
+2026-07-30,Organic,Spring Sale,463.81,779,40
+2026-07-30,Referral,Spring Sale,268.33,369,11
+2026-07-30,Email,Spring Sale,403.52,441,7
+2026-07-30,Display,Product Launch,363.67,260,2
+2026-07-30,Paid Search,Product Launch,118.47,332,17
+2026-07-30,Paid Search,Retargeting,401.51,353,13
+2026-07-30,Organic,Retargeting,174.64,601,30
+2026-07-30,Paid Search,Product Launch,239.09,622,24
+2026-07-30,Organic,Spring Sale,488.83,350,3
+2026-07-31,Referral,Newsletter,490.65,364,21
+2026-07-31,Social,Newsletter,193.72,367,13
+2026-07-31,Referral,Holiday Promo,511.45,226,2
+2026-07-31,Social,Product Launch,173.79,568,19
+2026-07-31,Referral,Brand Awareness,382.25,607,5
+2026-07-31,Organic,Spring Sale,363.28,754,17
+2026-07-31,Organic,Newsletter,295.66,88,1
+2026-07-31,Paid Search,Holiday Promo,497.77,375,16
+2026-07-31,Referral,Holiday Promo,333.17,327,6
+2026-08-01,Email,Newsletter,318.91,431,21
+2026-08-01,Social,Spring Sale,384.15,580,33
+2026-08-01,Organic,Retargeting,143.51,211,13
+2026-08-01,Referral,Product Launch,563.55,780,34
+2026-08-01,Referral,Newsletter,441.44,649,3
+2026-08-01,Social,Product Launch,288.24,554,15
+2026-08-01,Display,Holiday Promo,464.01,174,6
+2026-08-01,Email,Spring Sale,387.68,440,27
+2026-08-01,Email,Product Launch,394.7,442,8
+2026-08-01,Organic,Brand Awareness,255.4,723,7
+2026-08-01,Social,Spring Sale,162.44,173,4
+2026-08-01,Referral,Newsletter,594.95,495,27
+2026-08-02,Social,Product Launch,99.13,226,8
+2026-08-02,Display,Newsletter,122.07,304,1
+2026-08-02,Referral,Spring Sale,52.09,759,5
+2026-08-02,Organic,Product Launch,522.96,341,13
+2026-08-02,Display,Holiday Promo,533.72,392,12
+2026-08-02,Social,Brand Awareness,84.92,761,47
+2026-08-03,Organic,Holiday Promo,500.81,143,8
+2026-08-03,Referral,Spring Sale,158.08,277,3
+2026-08-03,Email,Newsletter,447.6,340,7
+2026-08-03,Social,Brand Awareness,81.95,453,6
+2026-08-03,Referral,Retargeting,167.5,301,18
+2026-08-03,Referral,Newsletter,237.33,77,0
+2026-08-03,Organic,Retargeting,295.42,344,7
+2026-08-03,Social,Product Launch,295.63,304,11
+2026-08-03,Paid Search,Holiday Promo,580.75,335,19
+2026-08-03,Display,Holiday Promo,483.39,55,0
+2026-08-03,Display,Brand Awareness,166.73,727,24
+2026-08-03,Display,Holiday Promo,230.46,336,21
+2026-08-03,Organic,Brand Awareness,517.44,144,6
+2026-08-03,Referral,Product Launch,194.52,28,0
+2026-06-05,Social,Retargeting,579.45,73,0

@@ -1,0 +1,526 @@
+date,category,priority,channel,ticket_count
+2026-06-05,Account,Low,Chat,1
+2026-06-05,Bug Report,High,Chat,1
+2026-06-05,Billing,Low,Phone,1
+2026-06-05,Technical,Urgent,Phone,1
+2026-06-05,Technical,Low,Chat,1
+2026-06-05,Technical,High,Chat,N/A
+2026-06-05,Feature Request,Low,Email,1
+2026-06-06,Technical,Medium,Phone,1
+2026-06-06,Bug Report,High,Chat,1
+2026-06-06,Bug Report,Medium,Chat,1
+2026-06-06,Technical,High,Chat,1
+2026-06-06,Technical,Low,Chat,1
+2026-06-06,Account,Medium,Chat,1
+2026-06-06,Bug Report,Medium,Email,1
+2026-06-07,Feature Request,Medium,Email,1
+2026-06-07,Bug Report,Medium,Chat,1
+2026-06-07,Technical,Low,Chat,1
+2026-06-07,Feature Request,Urgent,Phone,1
+2026-06-07,Account,Medium,Email,1
+2026-06-08,Technical,Low,Email,1
+2026-06-08,Feature Request,Urgent,Chat,1
+2026-06-08,Bug Report,Low,Email,1
+2026-06-08,Technical,Medium,Chat,1
+2026-06-08,Account,Urgent,Chat,1
+2026-06-08,Technical,Urgent,Email,1
+2026-06-08,Feature Request,Medium,Chat,1
+2026-06-08,Technical,Urgent,Email,1
+2026-06-08,Bug Report,Medium,Email,1
+2026-06-08,Account,High,Email,1
+2026-06-09,Technical,High,Phone,1
+2026-06-09,Bug Report,Low,Email,1
+2026-06-09,Bug Report,Medium,Chat,1
+2026-06-09,Bug Report,Medium,Phone,1
+2026-06-09,Bug Report,Urgent,Phone,1
+2026-06-09,Feature Request,High,Email,1
+2026-06-09,Billing,Low,Email,1
+2026-06-09,Account,Medium,Chat,1
+2026-06-09,Account,Low,Email,1
+2026-06-09,Account,Urgent,Chat,1
+2026-06-09,Bug Report,High,Email,1
+2026-06-09,Feature Request,Low,Phone,1
+2026-06-10,Account,Medium,Phone,1
+2026-06-10,Bug Report,High,Chat,1
+2026-06-10,Technical,Low,Chat,1
+2026-06-10,Feature Request,Urgent,Email,1
+2026-06-10,Account,Low,Chat,1
+2026-06-10,Billing,Medium,Chat,1
+2026-06-10,Account,High,Chat,1
+2026-06-11,Account,High,Phone,1
+2026-06-11,Account,Urgent,Email,1
+2026-06-11,Account,Urgent,Email,1
+2026-06-11,Feature Request,Urgent,Email,1
+2026-06-11,Technical,Medium,Email,1
+2026-06-11,Technical,Medium,Email,1
+2026-06-11,Bug Report,High,Email,1
+2026-06-11,Bug Report,Urgent,Email,1
+2026-06-11,Bug Report,Low,Chat,1
+2026-06-12,Feature Request,Urgent,Chat,1
+2026-06-12,Bug Report,Low,Phone,1
+2026-06-12,Technical,Low,Chat,1
+2026-06-12,Billing,Medium,Chat,1
+2026-06-12,Technical,Medium,Phone,1
+2026-06-12,Feature Request,High,Phone,1
+2026-06-12,Feature Request,Medium,Phone,1
+2026-06-12,Billing,Medium,Chat,1
+2026-06-12,Billing,Medium,Chat,1
+2026-06-12,Billing,High,Email,1
+2026-06-13,Billing,Urgent,Chat,1
+2026-06-13,Feature Request,Low,,1
+2026-06-13,Technical,Low,Email,1
+2026-06-13,Bug Report,Urgent,Chat,1
+2026-06-13,Account,Low,Chat,1
+2026-06-13,Billing,Urgent,Chat,1
+2026-06-13,Feature Request,Medium,Email,1
+2026-06-13,Billing,High,Chat,1
+2026-06-13,Billing,Low,Phone,1
+2026-06-14,Billing,Urgent,Chat,1
+2026-06-14,Technical,Medium,Chat,1
+2026-06-14,Billing,Low,Email,1
+2026-06-14,Technical,Urgent,Chat,1
+2026-06-14,Account,Medium,Email,1
+2026-06-14,Account,Urgent,Chat,1
+2026-06-14,Account,Medium,Chat,1
+2026-06-14,Billing,High,Phone,1
+2026-06-14,Technical,Urgent,Chat,1
+2026-06-14,Bug Report,Urgent,Chat,1
+2026-06-14,Feature Request,Urgent,Email,1
+2026-06-15,Account,Medium,Chat,1
+2026-06-15,Bug Report,Low,Email,1
+2026-06-15,Feature Request,High,Chat,1
+2026-06-15,Technical,Medium,Chat,1
+2026-06-15,Feature Request,Low,Chat,1
+2026-06-15,Bug Report,Urgent,Email,1
+2026-06-15,Bug Report,High,Email,1
+2026-06-15,Technical,High,Email,1
+2026-06-15,Feature Request,Urgent,Chat,1
+2026-06-15,Feature Request,Low,Phone,1
+2026-06-15,Billing,Low,,1
+2026-06-16,Feature Request,Urgent,Chat,1
+2026-06-16,Billing,Urgent,Phone,1
+2026-06-16,Feature Request,High,Chat,1
+2026-06-16,Account,Low,Phone,1
+2026-06-16,Billing,Low,Phone,1
+2026-06-16,Bug Report,Medium,Email,1
+2026-06-17,Billing,Low,,1
+2026-06-17,Account,High,Phone,1
+2026-06-17,Bug Report,Urgent,Phone,1
+2026-06-17,Account,High,Email,1
+2026-06-17,Technical,Medium,Email,1
+2026-06-17,Feature Request,High,Phone,1
+2026-06-17,Billing,Urgent,Phone,1
+2026-06-17,Billing,Low,Chat,1
+2026-06-17,Billing,Low,Email,1
+2026-06-17,Bug Report,Urgent,Phone,1
+2026-06-17,Bug Report,Urgent,Chat,1
+2026-06-18,Bug Report,High,Email,1
+2026-06-18,Technical,Medium,Email,1
+2026-06-18,Technical,Low,Email,1
+2026-06-18,Technical,Low,Email,1
+2026-06-18,Bug Report,Medium,Phone,1
+2026-06-18,Technical,Urgent,Phone,1
+2026-06-18,Feature Request,Medium,Email,1
+2026-06-18,Account,Urgent,Email,1
+2026-06-18,Bug Report,Urgent,Email,1
+2026-06-18,Billing,Medium,Email,1
+2026-06-19,Bug Report,Urgent,Email,1
+2026-06-19,Bug Report,Medium,Email,1
+2026-06-19,Account,Urgent,Email,1
+2026-06-19,Account,Low,Email,1
+2026-06-19,Bug Report,Urgent,Chat,1
+2026-06-19,Feature Request,High,Email,1
+2026-06-19,Bug Report,Urgent,Chat,1
+2026-06-19,Feature Request,Urgent,Email,1
+2026-06-19,Billing,Low,Chat,1
+2026-06-19,Feature Request,High,Phone,1
+2026-06-19,Billing,High,Phone,1
+2026-06-19,Bug Report,Urgent,,1
+2026-06-20,Feature Request,High,Chat,1
+2026-06-20,Bug Report,Low,Email,1
+2026-06-20,Account,Medium,Chat,1
+2026-06-20,Account,Urgent,Email,1
+2026-06-20,Feature Request,Medium,Phone,1
+2026-06-20,Account,Urgent,Email,1
+2026-06-20,Account,Urgent,Chat,1
+2026-06-20,Account,Urgent,Email,1
+2026-06-20,Feature Request,Medium,Chat,1
+2026-06-20,Billing,Urgent,Email,1
+2026-06-20,Technical,Medium,Email,1
+2026-06-20,Feature Request,Urgent,Email,1
+2026-06-21,Bug Report,High,Email,1
+2026-06-21,Technical,Low,Email,1
+2026-06-21,Account,High,Chat,1
+2026-06-21,Technical,Medium,Phone,1
+2026-06-21,Billing,Low,Chat,1
+2026-06-21,Bug Report,Low,Phone,1
+2026-06-21,Technical,Low,Phone,1
+2026-06-21,Technical,Urgent,Chat,1
+2026-06-21,Account,High,Email,1
+2026-06-21,Feature Request,High,Email,1
+2026-06-21,Feature Request,Low,Phone,1
+2026-06-22,Bug Report,Urgent,Email,1
+2026-06-22,Billing,Low,Phone,1
+2026-06-22,Billing,Low,Email,1
+2026-06-22,Billing,Medium,Chat,1
+2026-06-22,Technical,High,Phone,1
+2026-06-23,Feature Request,Urgent,Phone,1
+2026-06-23,Billing,Medium,Phone,1
+2026-06-23,Account,High,Email,1
+2026-06-23,Billing,Medium,Chat,1
+2026-06-23,Bug Report,Low,Email,1
+2026-06-23,Bug Report,High,Chat,1
+2026-06-23,Feature Request,Medium,Email,1
+2026-06-23,Account,High,Phone,1
+2026-06-23,Bug Report,High,Phone,1
+2026-06-23,Technical,Medium,Phone,1
+2026-06-23,Bug Report,Medium,,1
+2026-06-23,Bug Report,Urgent,Chat,1
+2026-06-24,Feature Request,High,Email,1
+2026-06-24,Bug Report,Medium,Email,1
+2026-06-24,Feature Request,Low,,1
+2026-06-24,Account,High,Chat,1
+2026-06-24,Technical,Urgent,Email,1
+2026-06-24,Bug Report,Low,Phone,1
+2026-06-24,Technical,Low,Phone,1
+2026-06-24,Feature Request,High,Chat,1
+2026-06-24,Bug Report,High,Phone,1
+2026-06-24,Account,High,Email,1
+2026-06-24,Account,Medium,Phone,1
+2026-06-24,Bug Report,Urgent,Phone,1
+2026-06-25,Feature Request,Urgent,Phone,1
+2026-06-25,Account,Urgent,Email,1
+2026-06-25,Account,Low,Email,1
+2026-06-25,Feature Request,High,Chat,1
+2026-06-25,Technical,High,Email,1
+2026-06-25,Billing,High,Phone,1
+2026-06-25,Account,Medium,Email,1
+2026-06-25,Billing,High,Email,1
+2026-06-26,Bug Report,Low,Phone,1
+2026-06-26,Billing,High,Chat,1
+2026-06-26,Feature Request,High,Email,1
+2026-06-26,Billing,Low,Chat,1
+2026-06-26,Account,Low,Chat,1
+2026-06-26,Account,Medium,Phone,1
+2026-06-26,Feature Request,Medium,Chat,1
+2026-06-26,Account,High,Phone,1
+2026-06-26,Feature Request,Medium,Phone,1
+2026-06-27,Feature Request,Medium,Email,1
+2026-06-27,Account,Medium,Chat,1
+2026-06-27,Bug Report,Low,Email,1
+2026-06-27,Bug Report,Urgent,Email,1
+2026-06-27,Billing,Low,Chat,1
+2026-06-27,Technical,Urgent,Email,1
+2026-06-27,Bug Report,Low,Chat,1
+2026-06-27,Feature Request,Urgent,Phone,1
+2026-06-27,Feature Request,Urgent,Chat,1
+2026-06-27,Feature Request,Urgent,Phone,1
+2026-06-27,Bug Report,Urgent,Phone,1
+2026-06-28,Bug Report,Medium,Email,1
+2026-06-28,Feature Request,Medium,Chat,1
+2026-06-28,Bug Report,Medium,Phone,1
+2026-06-28,Feature Request,Low,Phone,1
+2026-06-28,Technical,Urgent,Chat,1
+2026-06-28,Billing,Medium,Phone,1
+2026-06-28,Account,Low,,1
+2026-06-28,Bug Report,Low,Email,1
+2026-06-28,Account,High,Email,1
+2026-06-28,Feature Request,Medium,Email,1
+2026-06-28,Account,High,Chat,1
+2026-06-28,Account,High,Chat,1
+2026-06-29,Technical,Medium,Phone,1
+2026-06-29,Bug Report,Low,Chat,1
+2026-06-29,Account,Medium,Email,1
+2026-06-29,Bug Report,Low,Email,1
+2026-06-29,Feature Request,High,Email,1
+2026-06-30,Bug Report,Urgent,Phone,1
+2026-06-30,Account,Urgent,Chat,1
+2026-06-30,Bug Report,Urgent,Phone,1
+2026-06-30,Feature Request,Medium,Email,1
+2026-06-30,Feature Request,Urgent,Chat,1
+2026-07-01,Technical,High,Email,1
+2026-07-01,Feature Request,Urgent,Chat,1
+2026-07-01,Technical,Urgent,Chat,1
+2026-07-01,Feature Request,Low,Phone,1
+2026-07-01,Bug Report,High,Phone,1
+2026-07-01,Billing,Medium,Phone,1
+2026-07-01,Billing,High,Phone,1
+2026-07-01,Billing,Low,Email,1
+2026-07-01,Feature Request,Low,Phone,1
+2026-07-01,Feature Request,Medium,Chat,1
+2026-07-01,Feature Request,Low,Email,1
+2026-07-01,Feature Request,Medium,Email,1
+2026-07-02,Technical,Medium,Phone,1
+2026-07-02,Feature Request,Urgent,Email,1
+2026-07-02,Feature Request,High,Chat,1
+2026-07-02,Feature Request,Low,Chat,1
+2026-07-02,Billing,High,Chat,1
+2026-07-02,Technical,Urgent,Email,1
+2026-07-02,Feature Request,High,,1
+2026-07-02,Account,Low,Email,1
+2026-07-02,Billing,Medium,Chat,1
+2026-07-03,Technical,High,Email,1
+2026-07-03,Technical,High,Chat,1
+2026-07-03,Technical,Low,Phone,1
+2026-07-03,Account,Medium,Email,1
+2026-07-03,Billing,High,Chat,1
+2026-07-03,Billing,High,Email,1
+2026-07-03,Bug Report,High,Chat,1
+2026-07-04,Billing,Low,Email,1
+2026-07-04,Technical,Medium,Chat,1
+2026-07-04,Feature Request,Urgent,Email,1
+2026-07-04,Account,Low,Chat,1
+2026-07-04,Bug Report,Urgent,Email,1
+2026-07-04,Bug Report,Low,Chat,1
+2026-07-04,Technical,Low,Chat,1
+2026-07-04,Feature Request,Low,Email,1
+2026-07-04,Feature Request,Medium,Chat,1
+2026-07-04,Feature Request,Urgent,Chat,1
+2026-07-04,Billing,Medium,Email,1
+2026-07-05,Feature Request,Medium,Email,1
+2026-07-05,Feature Request,Urgent,Phone,1
+2026-07-05,Bug Report,Low,Email,1
+2026-07-05,Bug Report,High,Phone,1
+2026-07-05,Technical,Low,Email,1
+2026-07-05,Bug Report,High,Phone,1
+2026-07-05,Account,Urgent,Chat,1
+2026-07-05,Technical,High,Email,1
+2026-07-05,Technical,Low,Chat,1
+2026-07-05,Billing,Urgent,Phone,1
+2026-07-06,Technical,High,Chat,1
+2026-07-06,Technical,High,Phone,1
+2026-07-06,Account,High,Phone,1
+2026-07-06,Bug Report,High,Email,1
+2026-07-06,Account,High,Email,1
+2026-07-06,Bug Report,High,Email,1
+2026-07-07,Billing,Urgent,Email,1
+2026-07-07,Billing,Medium,Chat,1
+2026-07-07,Feature Request,Urgent,Chat,1
+2026-07-07,Feature Request,Low,Phone,1
+2026-07-07,Billing,Low,Phone,1
+2026-07-07,Bug Report,Low,Chat,1
+2026-07-07,Bug Report,High,Chat,1
+2026-07-08,Billing,Low,Chat,1
+2026-07-08,Account,Medium,Chat,1
+2026-07-08,Billing,Medium,Phone,1
+2026-07-08,Billing,High,Phone,1
+2026-07-08,Account,Medium,Email,1
+2026-07-08,Feature Request,High,Phone,1
+2026-07-08,Technical,Medium,Chat,1
+2026-07-09,Billing,High,,1
+2026-07-09,Feature Request,Medium,Email,1
+2026-07-09,Technical,Urgent,Email,1
+2026-07-09,Account,Urgent,Email,1
+2026-07-09,Feature Request,Medium,Phone,1
+2026-07-09,Feature Request,Medium,Email,1
+2026-07-09,Feature Request,Medium,Phone,1
+2026-07-09,Billing,Medium,Chat,1
+2026-07-09,Feature Request,Medium,Phone,1
+2026-07-09,Account,Medium,Phone,1
+2026-07-10,Feature Request,High,Phone,1
+2026-07-10,Feature Request,Urgent,Email,1
+2026-07-10,Bug Report,Low,Chat,1
+2026-07-10,Bug Report,Urgent,Chat,1
+2026-07-10,Billing,Urgent,Chat,1
+2026-07-11,Feature Request,Low,Phone,1
+2026-07-11,Technical,Low,Chat,1
+2026-07-11,Bug Report,Urgent,,1
+2026-07-11,Billing,Urgent,Email,1
+2026-07-11,Account,Low,Phone,1
+2026-07-11,Billing,Medium,Phone,1
+2026-07-11,Bug Report,Low,Email,1
+2026-07-11,Technical,Medium,Chat,1
+2026-07-11,Account,Low,Phone,1
+2026-07-11,Billing,Low,,1
+2026-07-12,Billing,High,Chat,1
+2026-07-12,Technical,Low,Chat,1
+2026-07-12,Technical,High,Email,1
+2026-07-12,Account,Medium,Email,1
+2026-07-12,Feature Request,Urgent,Email,1
+2026-07-12,Bug Report,Low,Email,1
+2026-07-12,Billing,Low,Chat,1
+2026-07-12,Account,Low,,1
+2026-07-12,Billing,Urgent,Email,1
+2026-07-12,Account,Urgent,Email,1
+2026-07-12,Billing,Low,Phone,1
+2026-07-13,Account,Urgent,Chat,1
+2026-07-13,Billing,Urgent,Email,1
+2026-07-13,Feature Request,Low,Chat,1
+2026-07-13,Bug Report,Urgent,Chat,1
+2026-07-13,Feature Request,Low,Chat,1
+2026-07-14,Bug Report,High,Phone,1
+2026-07-14,Technical,Low,Email,1
+2026-07-14,Billing,Low,Phone,1
+2026-07-14,Technical,Medium,Phone,1
+2026-07-14,Feature Request,High,Chat,1
+2026-07-15,Bug Report,Urgent,Email,1
+2026-07-15,Technical,Medium,Email,1
+2026-07-15,Billing,Medium,Chat,1
+2026-07-15,Feature Request,Urgent,Phone,1
+2026-07-15,Account,High,Phone,1
+2026-07-15,Feature Request,Medium,Email,1
+2026-07-15,Bug Report,High,Phone,1
+2026-07-15,Account,High,Chat,1
+2026-07-15,Billing,Medium,Email,1
+2026-07-15,Technical,Low,Chat,1
+2026-07-15,Account,Medium,Email,1
+2026-07-16,Billing,High,Email,1
+2026-07-16,Bug Report,Urgent,Phone,1
+2026-07-16,Account,High,Phone,1
+2026-07-16,Account,Urgent,Chat,1
+2026-07-16,Technical,Low,Chat,1
+2026-07-16,Billing,Urgent,Email,1
+2026-07-16,Billing,Medium,Phone,1
+2026-07-16,Technical,Urgent,Phone,1
+2026-07-17,Technical,Urgent,Phone,1
+2026-07-17,Account,Urgent,Email,1
+2026-07-17,Bug Report,Medium,Email,1
+2026-07-17,Account,Low,Email,1
+2026-07-17,Account,Low,Phone,1
+2026-07-17,Billing,Medium,Chat,1
+2026-07-17,Bug Report,Medium,Phone,1
+2026-07-17,Feature Request,High,Email,1
+2026-07-18,Technical,Medium,Chat,1
+2026-07-18,Technical,Medium,Chat,1
+2026-07-18,Technical,High,Phone,1
+2026-07-18,Technical,Medium,Email,1
+2026-07-18,Billing,Medium,Chat,1
+2026-07-19,Billing,Medium,Chat,1
+2026-07-19,Billing,High,Email,1
+2026-07-19,Account,Urgent,Email,1
+2026-07-19,Account,High,Phone,1
+2026-07-19,Technical,Urgent,Phone,1
+2026-07-19,Billing,Low,Email,1
+2026-07-20,Technical,Medium,Phone,1
+2026-07-20,Bug Report,High,Chat,1
+2026-07-20,Feature Request,Urgent,Phone,1
+2026-07-20,Technical,Low,Phone,1
+2026-07-20,Feature Request,Medium,Phone,1
+2026-07-20,Account,Medium,,1
+2026-07-20,Technical,Low,Phone,1
+2026-07-21,Technical,Urgent,Email,1
+2026-07-21,Billing,Urgent,Phone,1
+2026-07-21,Feature Request,Low,Email,1
+2026-07-21,Feature Request,Urgent,Phone,1
+2026-07-21,Feature Request,High,Chat,1
+2026-07-21,Feature Request,Urgent,Email,1
+2026-07-21,Account,High,Phone,1
+2026-07-21,Bug Report,Urgent,Chat,1
+2026-07-21,Account,Urgent,Phone,1
+2026-07-22,Technical,Medium,Email,1
+2026-07-22,Bug Report,Medium,Chat,1
+2026-07-22,Technical,High,Chat,1
+2026-07-22,Bug Report,Medium,Chat,1
+2026-07-22,Account,Low,Email,1
+2026-07-23,Account,Urgent,Phone,1
+2026-07-23,Account,Medium,Phone,1
+2026-07-23,Billing,Urgent,Phone,1
+2026-07-23,Feature Request,High,Chat,1
+2026-07-23,Bug Report,Urgent,Chat,1
+2026-07-23,Bug Report,High,Chat,1
+2026-07-24,Account,Urgent,Email,1
+2026-07-24,Technical,Urgent,,1
+2026-07-24,Account,Low,Chat,1
+2026-07-24,Billing,High,Phone,1
+2026-07-24,Feature Request,Low,Chat,1
+2026-07-24,Technical,Low,Email,1
+2026-07-24,Billing,High,Email,1
+2026-07-24,Feature Request,Medium,Chat,1
+2026-07-24,Technical,High,Chat,1
+2026-07-24,Account,High,Email,1
+2026-07-25,Feature Request,High,Email,1
+2026-07-25,Account,High,Chat,1
+2026-07-25,Bug Report,Urgent,Phone,1
+2026-07-25,Billing,Urgent,Phone,1
+2026-07-25,Feature Request,Medium,Chat,1
+2026-07-25,Technical,Medium,Phone,1
+2026-07-25,Technical,Urgent,Email,1
+2026-07-26,Feature Request,Urgent,Phone,1
+2026-07-26,Bug Report,High,Email,1
+2026-07-26,Account,Medium,Chat,1
+2026-07-26,Bug Report,Medium,Chat,1
+2026-07-26,Bug Report,Low,Chat,1
+2026-07-26,Technical,Medium,Chat,1
+2026-07-26,Billing,Urgent,Phone,1
+2026-07-26,Account,High,Email,1
+2026-07-26,Bug Report,Urgent,Phone,1
+2026-07-26,Bug Report,High,Chat,1
+2026-07-26,Feature Request,Low,Phone,1
+2026-07-26,Billing,Medium,Email,1
+2026-07-26,Account,Urgent,Chat,1
+2026-07-27,Bug Report,Low,Phone,1
+2026-07-27,Bug Report,Medium,Chat,1
+2026-07-27,Billing,High,Phone,1
+2026-07-27,Bug Report,High,Email,1
+2026-07-27,Technical,Low,Phone,1
+2026-07-27,Feature Request,Medium,Email,1
+2026-07-27,Feature Request,Urgent,Email,1
+2026-07-27,Technical,Medium,Email,1
+2026-07-28,Account,Medium,Email,1
+2026-07-28,Account,Low,Chat,1
+2026-07-28,Billing,High,Phone,1
+2026-07-28,Billing,Medium,Chat,1
+2026-07-28,Bug Report,Urgent,Email,1
+2026-07-28,Billing,Medium,Phone,1
+2026-07-28,Bug Report,Urgent,Phone,1
+2026-07-28,Billing,Urgent,Email,1
+2026-07-28,Technical,Medium,Chat,1
+2026-07-28,Bug Report,Urgent,Email,1
+2026-07-28,Feature Request,High,Phone,1
+2026-07-29,Feature Request,Urgent,Chat,1
+2026-07-29,Technical,Low,Email,1
+2026-07-29,Bug Report,Low,Chat,1
+2026-07-29,Feature Request,Medium,Phone,1
+2026-07-29,Account,Urgent,Chat,1
+2026-07-29,Bug Report,Low,Phone,1
+2026-07-29,Billing,High,Phone,1
+2026-07-29,Bug Report,High,Phone,1
+2026-07-30,Bug Report,Medium,Chat,1
+2026-07-30,Technical,Medium,Phone,1
+2026-07-30,Bug Report,Urgent,Chat,1
+2026-07-30,Technical,Low,Chat,1
+2026-07-30,Billing,Medium,Email,1
+2026-07-30,Account,High,Phone,1
+2026-07-30,Billing,Medium,Chat,1
+2026-07-30,Bug Report,Low,Chat,1
+2026-07-30,Billing,Low,Phone,1
+2026-07-31,Bug Report,Urgent,Email,1
+2026-07-31,Account,Medium,Phone,1
+2026-07-31,Billing,Urgent,Email,1
+2026-07-31,Billing,Urgent,Chat,1
+2026-07-31,Account,Urgent,Email,1
+2026-07-31,Bug Report,Low,Email,1
+2026-07-31,Account,Low,Phone,1
+2026-07-31,Technical,High,Phone,1
+2026-07-31,Bug Report,Urgent,Chat,1
+2026-07-31,Billing,Low,Phone,1
+2026-08-01,Bug Report,Medium,Chat,1
+2026-08-01,Account,Medium,Email,1
+2026-08-01,Billing,Low,Email,1
+2026-08-01,Account,Low,Phone,1
+2026-08-01,Bug Report,Medium,Email,1
+2026-08-01,Billing,High,Email,1
+2026-08-01,Bug Report,High,Email,1
+2026-08-01,Technical,Low,Phone,1
+2026-08-02,Technical,Urgent,Phone,1
+2026-08-02,Billing,Low,Chat,1
+2026-08-02,Account,Urgent,Email,1
+2026-08-02,Feature Request,Low,Email,1
+2026-08-02,Bug Report,Medium,Email,1
+2026-08-02,Account,Medium,Email,1
+2026-08-02,Billing,Low,Chat,1
+2026-08-02,Billing,Low,Chat,1
+2026-08-02,Technical,Low,,1
+2026-08-02,Billing,Medium,Phone,1
+2026-08-02,Technical,Low,Chat,1
+2026-08-02,Feature Request,Low,Chat,1
+2026-08-02,Account,Medium,Phone,1
+2026-08-03,Feature Request,Urgent,Chat,1
+2026-08-03,Billing,Medium,Email,1
+2026-08-03,Billing,High,Chat,1
+2026-08-03,Technical,Low,Chat,1
+2026-08-03,Account,Low,Chat,1
+2026-08-03,Technical,Urgent,Email,1
+2026-08-03,Billing,High,Phone,1
+2026-08-03,Feature Request,High,Email,1
+2026-06-06,Technical,High,Chat,1

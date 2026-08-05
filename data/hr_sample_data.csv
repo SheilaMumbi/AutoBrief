@@ -1,0 +1,191 @@
+date,department,role,event_type,new_hire_flag
+2026-06-05,Engineering,Director,hire,1
+2026-06-05,Sales,Individual Contributor,hire,1
+2026-06-05,Operations,Individual Contributor,hire,1
+2026-06-05,Marketing,Senior IC,hire,1
+2026-06-05,Engineering,Senior IC,hire,1
+2026-06-05,Support,Senior IC,hire,N/A
+2026-06-06,Engineering,Senior IC,hire,1
+2026-06-07,Support,Senior IC,exit,0
+2026-06-07,Engineering,Director,hire,1
+2026-06-07,Support,Individual Contributor,hire,1
+2026-06-07,Support,Manager,hire,1
+2026-06-07,Operations,Individual Contributor,hire,1
+2026-06-07,Sales,Senior IC,exit,0
+2026-06-08,Sales,,hire,1
+2026-06-08,Engineering,Director,hire,1
+2026-06-08,Sales,Individual Contributor,hire,1
+2026-06-08,Sales,Senior IC,hire,1
+2026-06-08,Sales,Senior IC,hire,1
+2026-06-09,Marketing,Director,hire,1
+2026-06-09,Sales,Senior IC,hire,1
+2026-06-10,Sales,Manager,hire,1
+2026-06-10,Marketing,Senior IC,hire,1
+2026-06-10,Marketing,Individual Contributor,hire,1
+2026-06-10,Support,Director,exit,0
+2026-06-10,Marketing,Director,hire,1
+2026-06-11,Marketing,Senior IC,hire,1
+2026-06-11,Marketing,Individual Contributor,exit,0
+2026-06-11,Marketing,Individual Contributor,exit,0
+2026-06-11,Support,Senior IC,exit,0
+2026-06-11,Sales,Manager,hire,1
+2026-06-12,Marketing,Manager,hire,1
+2026-06-12,Operations,Director,hire,1
+2026-06-12,Sales,Director,hire,1
+2026-06-12,Sales,Individual Contributor,hire,1
+2026-06-12,Operations,Manager,hire,1
+2026-06-13,Marketing,Director,hire,1
+2026-06-13,Support,Director,exit,0
+2026-06-13,Operations,Individual Contributor,hire,1
+2026-06-13,Engineering,Individual Contributor,hire,1
+2026-06-13,Operations,Senior IC,hire,1
+2026-06-13,Marketing,Manager,hire,1
+2026-06-14,Marketing,Manager,hire,1
+2026-06-14,Marketing,Director,exit,0
+2026-06-14,Sales,Director,exit,0
+2026-06-14,Support,Individual Contributor,hire,1
+2026-06-15,Marketing,Senior IC,hire,1
+2026-06-16,Operations,,hire,1
+2026-06-16,Engineering,Director,hire,1
+2026-06-16,Operations,Individual Contributor,hire,1
+2026-06-17,Marketing,Senior IC,exit,0
+2026-06-17,Support,Manager,exit,0
+2026-06-17,Operations,Director,hire,1
+2026-06-17,Marketing,Individual Contributor,hire,1
+2026-06-17,Operations,Manager,hire,1
+2026-06-17,Support,Senior IC,exit,0
+2026-06-17,Marketing,Manager,exit,0
+2026-06-19,Engineering,Individual Contributor,exit,0
+2026-06-21,Support,Director,hire,1
+2026-06-21,Support,Senior IC,hire,1
+2026-06-21,Sales,Director,exit,0
+2026-06-21,Engineering,Director,hire,1
+2026-06-21,Sales,Senior IC,hire,1
+2026-06-22,Sales,Senior IC,hire,1
+2026-06-22,Marketing,,hire,1
+2026-06-24,Engineering,Director,hire,1
+2026-06-26,Engineering,Senior IC,hire,1
+2026-06-26,Engineering,Individual Contributor,hire,1
+2026-06-26,Engineering,Individual Contributor,hire,1
+2026-06-28,Engineering,Director,hire,1
+2026-06-28,Support,Director,hire,1
+2026-06-29,Operations,Director,exit,0
+2026-06-29,Support,Manager,hire,1
+2026-06-29,Support,Director,exit,0
+2026-06-29,Engineering,Manager,hire,1
+2026-06-29,Engineering,Individual Contributor,exit,0
+2026-06-29,Marketing,Senior IC,hire,1
+2026-07-02,Sales,Manager,hire,1
+2026-07-02,Marketing,Director,hire,1
+2026-07-02,Engineering,Manager,exit,0
+2026-07-02,Support,Individual Contributor,hire,1
+2026-07-02,Support,Director,exit,0
+2026-07-02,Marketing,Director,hire,1
+2026-07-02,Engineering,Manager,exit,0
+2026-07-03,Marketing,Individual Contributor,exit,0
+2026-07-03,Support,Senior IC,exit,0
+2026-07-03,Operations,Individual Contributor,exit,0
+2026-07-03,Engineering,Manager,hire,1
+2026-07-03,Operations,Director,exit,0
+2026-07-04,Engineering,Director,exit,0
+2026-07-05,Sales,Senior IC,hire,1
+2026-07-05,Engineering,,exit,0
+2026-07-05,Engineering,Senior IC,hire,1
+2026-07-05,Support,Director,exit,0
+2026-07-05,Sales,Manager,exit,0
+2026-07-05,Engineering,,exit,0
+2026-07-05,Marketing,Individual Contributor,exit,0
+2026-07-06,Operations,Individual Contributor,exit,0
+2026-07-06,Marketing,Director,hire,1
+2026-07-06,Operations,Director,exit,0
+2026-07-06,Sales,Manager,exit,0
+2026-07-08,Engineering,Manager,hire,1
+2026-07-08,Sales,Individual Contributor,exit,0
+2026-07-08,Sales,Manager,hire,1
+2026-07-09,Engineering,Manager,hire,1
+2026-07-09,Operations,Senior IC,hire,1
+2026-07-09,Marketing,Manager,exit,0
+2026-07-09,Sales,Senior IC,exit,0
+2026-07-09,Engineering,,hire,1
+2026-07-10,Support,Senior IC,hire,1
+2026-07-10,Marketing,Senior IC,hire,1
+2026-07-10,Sales,Individual Contributor,hire,1
+2026-07-10,Support,Individual Contributor,hire,1
+2026-07-11,Operations,,exit,0
+2026-07-11,Sales,Director,hire,1
+2026-07-11,Marketing,Individual Contributor,hire,1
+2026-07-12,Sales,Senior IC,hire,1
+2026-07-12,Engineering,Senior IC,exit,0
+2026-07-12,Marketing,,exit,0
+2026-07-12,Sales,Individual Contributor,exit,0
+2026-07-13,Marketing,,hire,1
+2026-07-13,Marketing,Director,exit,0
+2026-07-13,Support,Manager,hire,1
+2026-07-13,Sales,Director,exit,0
+2026-07-13,Support,Individual Contributor,hire,1
+2026-07-13,Support,Director,exit,0
+2026-07-13,Operations,Senior IC,exit,0
+2026-07-14,Support,Senior IC,exit,0
+2026-07-14,Sales,Individual Contributor,hire,1
+2026-07-14,Operations,Individual Contributor,hire,1
+2026-07-14,Sales,Director,exit,0
+2026-07-14,Marketing,Senior IC,exit,0
+2026-07-14,Engineering,Manager,exit,0
+2026-07-15,Engineering,Individual Contributor,hire,1
+2026-07-15,Support,Director,exit,0
+2026-07-15,Marketing,Senior IC,exit,0
+2026-07-15,Sales,Director,hire,1
+2026-07-15,Operations,Senior IC,hire,1
+2026-07-15,Marketing,Individual Contributor,exit,0
+2026-07-16,Marketing,Manager,exit,0
+2026-07-16,Marketing,Manager,hire,1
+2026-07-16,Engineering,Individual Contributor,hire,1
+2026-07-16,Operations,Senior IC,hire,1
+2026-07-16,Operations,Director,hire,1
+2026-07-16,Engineering,Senior IC,hire,1
+2026-07-17,Marketing,Manager,hire,1
+2026-07-17,Engineering,Manager,hire,1
+2026-07-17,Operations,Senior IC,hire,1
+2026-07-17,Engineering,Director,hire,1
+2026-07-17,Operations,Director,hire,1
+2026-07-19,Operations,Individual Contributor,exit,0
+2026-07-19,Sales,Individual Contributor,exit,0
+2026-07-19,Operations,Senior IC,hire,1
+2026-07-19,Marketing,Manager,hire,1
+2026-07-19,Sales,Senior IC,hire,1
+2026-07-19,Engineering,Manager,exit,0
+2026-07-19,Engineering,,exit,0
+2026-07-21,Operations,Senior IC,hire,1
+2026-07-21,Engineering,Senior IC,hire,1
+2026-07-21,Operations,Manager,hire,1
+2026-07-21,Marketing,Senior IC,exit,0
+2026-07-21,Support,Manager,hire,1
+2026-07-21,Operations,Senior IC,hire,1
+2026-07-21,Engineering,Senior IC,exit,0
+2026-07-23,Sales,,hire,1
+2026-07-23,Sales,Manager,hire,1
+2026-07-24,Operations,Director,hire,1
+2026-07-24,Support,Manager,hire,1
+2026-07-24,Sales,Director,hire,1
+2026-07-25,Support,Director,hire,1
+2026-07-25,Sales,Senior IC,exit,0
+2026-07-25,Support,Senior IC,hire,1
+2026-07-25,Operations,Senior IC,exit,0
+2026-07-25,Sales,Manager,hire,1
+2026-07-25,Marketing,,exit,0
+2026-07-27,Engineering,Individual Contributor,hire,1
+2026-07-27,Marketing,Individual Contributor,exit,0
+2026-07-28,Support,Manager,hire,1
+2026-07-28,Sales,Senior IC,exit,0
+2026-07-28,Engineering,Director,hire,1
+2026-07-28,Sales,Director,exit,0
+2026-07-31,Support,,hire,1
+2026-08-02,Operations,,hire,1
+2026-08-02,Operations,Individual Contributor,hire,1
+2026-08-02,Sales,Manager,exit,0
+2026-08-02,Marketing,Senior IC,exit,0
+2026-08-02,Operations,,hire,1
+2026-08-02,Sales,Manager,hire,1
+2026-08-02,Operations,Senior IC,hire,1
+2026-08-03,Operations,Manager,hire,1
+2026-06-07,Support,Manager,hire,1
